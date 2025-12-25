@@ -1,0 +1,29 @@
+{
+  "name": "website-security-monitor",
+  "version": "0.1.0",
+  "description": "公司网站安全检测平台，首个模块是高德地图 Key 泄露扫描。",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "dev": "NODE_ENV=development node src/index.js",
+    "scan:gaode": "node src/scanners/gaodeMapKeyScanner.js",
+    "lint": "eslint src",
+    "test": "node test/run.js"
+  },
+  "keywords": [
+    "security",
+    "scanner",
+    "map-key",
+    "nodejs"
+  ],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.12",
+    "dotenv": "^16.4.3",
+    "puppeteer": "^23.4.0"
+  },
+  "devDependencies": {
+    "eslint": "^9.15.2"
+  }
+}
