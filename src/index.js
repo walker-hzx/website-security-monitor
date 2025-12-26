@@ -1,8 +1,10 @@
-require('dotenv').config();
+const { loadEnvironmentFiles } = require('./utils/loadEnvironment');
+loadEnvironmentFiles();
 const config = require('./config/default');
 const logger = require('./utils/logger');
 const { runGaodeMapKeyScan } = require('./scanners/gaodeMapKeyScanner');
 const { shutdownBrowser } = require('./utils/renderedContentFetcher');
+const { writeGaodeReport } = require('./utils/reportWriter');
 
 async function main() {
   const { targets = [], scanners = {} } = config;
@@ -16,6 +18,13 @@ async function main() {
   logger.info(`开始扫描 ${targets.length} 个目标`);
   const renderOptions = gaodeConfig.render || {};
   const results = await runGaodeMapKeyScan(targets, { renderOptions });
+  const outputFile = gaodeConfig.outputFile || 'reports/gaode-key-findings.json';
+  try {
+    const resolvedPath = await writeGaodeReport({ targets, results, outputFile });
+    logger.info(`扫描结果已写入 ${resolvedPath}`);
+  } catch (writeError) {
+    logger.warn('扫描输出文件写入失败，将在控制台保留日志。');
+  }
 
   const leakCount = results.reduce((count, entry) => count + (entry.keys?.length || 0), 0);
   const errorCount = results.reduce((count, entry) => count + (entry.error ? 1 : 0), 0);

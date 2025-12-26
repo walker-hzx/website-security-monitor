@@ -23,4 +23,4 @@
 4. 补充调度层，允许将各模块串联为全量扫描流水线。
 
 ## 渲染支持
-所有扫描默认启动 headless Chromium（通过 Puppeteer）加载目标页面，等到主 JS 逻辑跑完后再采集 HTML/Script，保证 Vue、React 这类 SPA 也能被检测到。首次安装会下载 Chromium；若希望使用系统浏览器，可设置 `PUPPETEER_EXECUTABLE_PATH`；如果希望跳过下载则设置 `PUPPETEER_SKIP_DOWNLOAD=1` 并提供自己的可用 Chromium 路径。扫描脚本可在 `scanners.gaode.render` 中调整 `timeoutMs`/`waitUntil` 等渲染参数。
+所有扫描默认启动 headless Chromium（通过 Puppeteer）加载目标页面，等到主 JS 逻辑跑完后再采集 HTML/Script，保证 Vue、React 这类 SPA 也能被检测到。启动前会自动加载 `.env` 以及 `.env.dev`（若存在），这样你可以在 `.env.dev` 内声明 `PUPPETEER_EXECUTABLE_PATH`、`LOG_LEVEL` 等运行时变量而无需手动 export。首次安装会下载 Chromium；若希望使用系统浏览器，可设置 `PUPPETEER_EXECUTABLE_PATH`；如果希望跳过下载则设置 `PUPPETEER_SKIP_DOWNLOAD=1` 并提供自己的可用 Chromium 路径。若首次运行提示“找不到 Chrome”，脚本会尝试触发 Puppeteer 的安装流程（也可手动运行 `npx puppeteer install chrome`），再继续执行扫描。若你的环境已有 Chrome/Chromium（例如 macOS 上的 `/Applications/Google Chrome.app/Contents/MacOS/Google Chrome`），直接把路径赋给 `PUPPETEER_EXECUTABLE_PATH`，脚本就会优先使用它。扫描脚本可在 `scanners.gaode.render` 中调整 `timeoutMs`/`waitUntil` 等渲染参数。

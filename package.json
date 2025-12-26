@@ -1,7 +1,7 @@
 {
   "name": "website-security-monitor",
   "version": "0.1.0",
-  "description": "公司网站安全检测平台，首个模块是高德地图 Key 泄露扫描。",
+  "description": "网站安全检测平台，支持多种安全扫描器插件，帮助用户发现和修复网站安全漏洞。",
   "main": "src/index.js",
   "scripts": {
     "start": "node src/index.js",

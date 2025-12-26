@@ -1,0 +1,3675 @@
+{
+  "generatedAt": "2025-12-26T01:06:05.241Z",
+  "targetCount": 262,
+  "targets": [
+    {
+      "name": "趣八鲜",
+      "url": "https://ztesa.com.cn:7013/"
+    },
+    {
+      "name": "姜山BI",
+      "url": "https://jsbi.zgwlxc.cn"
+    },
+    {
+      "name": "姜山驾驶舱接口",
+      "url": "https://jsjsc.ztesa.com.cn"
+    },
+    {
+      "name": "海曙bi",
+      "url": "https://hsbi.zgwlxc.cn"
+    },
+    {
+      "name": "H5主体追溯",
+      "url": "https://ztesa.com.cn:7003"
+    },
+    {
+      "name": "追溯h5",
+      "url": "https://ztesa.com.cn:7009"
+    },
+    {
+      "name": "H5产品追溯",
+      "url": "https://ztesa.com.cn:7004"
+    },
+    {
+      "name": "网格H5",
+      "url": "https://farmgrid.zgwlxc.cn:7002"
+    },
+    {
+      "name": "肥药两制监管平台",
+      "url": "https://ztesa.com.cn:8004/user/login?redirect=%2F"
+    },
+    {
+      "name": "国良物联网",
+      "url": "https://ztesa.com.cn:7029"
+    },
+    {
+      "name": "溯源h5",
+      "url": "https://trace.ztesa.com.cn"
+    },
+    {
+      "name": "智安码黄页",
+      "url": "https://namyellow.ztesa.com.cn"
+    },
+    {
+      "name": "智安码后台管理",
+      "url": "https://namadmin.ztesa.com.cn"
+    },
+    {
+      "name": "余姚榨菜H5",
+      "url": "https://yyzc-zwy.ztesa.com.cn/#/login"
+    },
+    {
+      "name": "海曙种植大脑",
+      "url": "https://zzdn.ztesa.com.cn/#/login"
+    },
+    {
+      "name": "智安码(农安码)",
+      "url": "https://nam.ztesa.com.cn"
+    },
+    {
+      "name": "慈溪BI",
+      "url": "https://ztesa.com.cn:7007"
+    },
+    {
+      "name": "监管门户网站",
+      "url": "https://ztesa.com.cn:7801"
+    },
+    {
+      "name": "慈溪市国家现代农业产业园数字云平台",
+      "url": "https://ztesa.com.cn:7078/login/"
+    },
+    {
+      "name": "慈溪市国家现代农业产业园数字云平台 (alias)",
+      "url": "https://ztesa.com.cn:7077/login/"
+    },
+    {
+      "name": "慧AIPC端",
+      "url": "https://hai.ztesa.com.cn"
+    },
+    {
+      "name": "慧AI运营平台",
+      "url": "https://haiyy.ztesa.com.cn"
+    },
+    {
+      "name": "象山秸秆监管端",
+      "url": "https://xsjgpc.ztesa.com.cn"
+    },
+    {
+      "name": "姜山镇秸秆监管端",
+      "url": "https://jszjgpc.ztesa.com.cn"
+    },
+    {
+      "name": "慧考试H5",
+      "url": "https://hksh5.ztesa.com.cn"
+    },
+    {
+      "name": "慧考试PC",
+      "url": "https://hks.ztesa.com.cn"
+    },
+    {
+      "name": "浙政钉数字乡村",
+      "url": "https://szjdjsczzd.ztesa.com.cn"
+    },
+    {
+      "name": "达飞滴BI",
+      "url": "https://dfdbi.ztesa.com.cn"
+    },
+    {
+      "name": "主体信息采集",
+      "url": "https://ztxxcj.ztesa.com.cn"
+    },
+    {
+      "name": "茂新管理后台地址",
+      "url": "https://mxwlxcop.zgwlxc.cn"
+    },
+    {
+      "name": "鹿鹿通PC",
+      "url": "https://lltpc.ztesa.com.cn"
+    },
+    {
+      "name": "鹿鹿通H5",
+      "url": "https://llth5.ztesa.com.cn"
+    },
+    {
+      "name": "掌上农场PC",
+      "url": "https://zsncpc.ztesa.com.cn"
+    },
+    {
+      "name": "掌上农场H5",
+      "url": "https://zsnch5.ztesa.com.cn"
+    },
+    {
+      "name": "达飞滴H5-国鹿域名",
+      "url": "https://dfdh5.zgguolu.com.cn"
+    },
+    {
+      "name": "国鹿支付域名",
+      "url": "https://pay.zgguolu.com.cn"
+    },
+    {
+      "name": "达飞滴后台代理",
+      "url": "https://dfdht.ztesa.com.cn"
+    },
+    {
+      "name": "达飞滴PC端",
+      "url": "https://dfdpc.ztesa.com.cn"
+    },
+    {
+      "name": "慧收储",
+      "url": "https://hsc.ztesa.com.cn"
+    },
+    {
+      "name": "达飞滴H5",
+      "url": "https://dfdh5.ztesa.com.cn"
+    },
+    {
+      "name": "新慧应用",
+      "url": "https://hyy2.ztesa.com.cn"
+    },
+    {
+      "name": "客户使用农事服务H5",
+      "url": "https://cnsfwh5.ztesa.com.cn"
+    },
+    {
+      "name": "芹菜BI",
+      "url": "https://qcbi.ztesa.com.cn"
+    },
+    {
+      "name": "绿鑫, 绿丰农事服务中心2",
+      "url": "https://lfnsfwzx.ztesa.com.cn"
+    },
+    {
+      "name": "杨梅BI",
+      "url": "https://ymbi.ztesa.com.cn"
+    },
+    {
+      "name": "江南村PC",
+      "url": "https://jncpc.ztesa.com.cn"
+    },
+    {
+      "name": "江南村BI",
+      "url": "https://jncbi.ztesa.com.cn"
+    },
+    {
+      "name": "慈溪江南村H5",
+      "url": "https://cxjnch5.ztesa.com.cn"
+    },
+    {
+      "name": "慈溪江南村PC",
+      "url": "https://cxjncpc.ztesa.com.cn"
+    },
+    {
+      "name": "宁海望海岗茶园",
+      "url": "https://szjdwlbi.ztesa.com.cn"
+    },
+    {
+      "name": "宁海绿鑫、绿丰农事服务中心",
+      "url": "https://lxlfnsfwzx.ztesa.com.cn"
+    },
+    {
+      "name": "气象局PC",
+      "url": "https://qxjpc.ztesa.com.cn"
+    },
+    {
+      "name": "慧应用",
+      "url": "https://hyy.ztesa.com.cn"
+    },
+    {
+      "name": "慧收储PC",
+      "url": "https://hscpc.ztesa.com.cn"
+    },
+    {
+      "name": "物联网设备库",
+      "url": "https://wlwsbglpc.ztesa.com.cn"
+    },
+    {
+      "name": "效能管理PC系统",
+      "url": "https://xngl.ztesa.com.cn"
+    },
+    {
+      "name": "热力指数(乡村振兴)",
+      "url": "https://zxxc.simple.ztesa.xyz"
+    },
+    {
+      "name": "农起帮物联网定位手表接口",
+      "url": "https://iotpro.ztesa.com.cn"
+    },
+    {
+      "name": "效能管理系统h5",
+      "url": "https://ims.ztesa.com.cn"
+    },
+    {
+      "name": "国鹿公司官网",
+      "url": "https://zgguolu.com.cn"
+    },
+    {
+      "name": "智慧排污(雨污)",
+      "url": "https://adyw.ztesa.com.cn"
+    },
+    {
+      "name": "市版农事服务中心BI",
+      "url": "https://nsfwzxsbbi.ztesa.com.cn"
+    },
+    {
+      "name": "政策保险2",
+      "url": "https://bx2.ztesa.com.cn"
+    },
+    {
+      "name": "余姚秸秆监管端",
+      "url": "https://yyjgpc.ztesa.com.cn"
+    },
+    {
+      "name": "余姚秸秆主体端",
+      "url": "https://yyjgztd.ztesa.com.cn"
+    },
+    {
+      "name": "种粮小农",
+      "url": "https://szyypc.ztesa.com.cn"
+    },
+    {
+      "name": "龙头企业BI",
+      "url": "https://ltqybi.ztesa.com.cn"
+    },
+    {
+      "name": "龙头企业监管端",
+      "url": "https://ltqyjg.ztesa.com.cn"
+    },
+    {
+      "name": "龙头企业主体端",
+      "url": "https://ltqyzt.ztesa.com.cn"
+    },
+    {
+      "name": "农场led",
+      "url": "https://led.ztesa.com.cn"
+    },
+    {
+      "name": "慈溪驾驶舱",
+      "url": "https://datav.zgwlxc.cn"
+    },
+    {
+      "name": "阿明农场BI",
+      "url": "https://amncbi.ztesa.com.cn"
+    },
+    {
+      "name": "宁海秸秆监管端pc",
+      "url": "https://nhjgpc.ztesa.com.cn"
+    },
+    {
+      "name": "宁海秸秆主体端pc",
+      "url": "https://nhjgztd.ztesa.com.cn"
+    },
+    {
+      "name": "农事服务中心PC+BI",
+      "url": "https://nsfwzxpc.ztesa.com.cn"
+    },
+    {
+      "name": "农起帮积分系统",
+      "url": "https://nqbjfsc.ztesa.com.cn"
+    },
+    {
+      "name": "渔业实验室后台(临时演示用)",
+      "url": "https://flabht.ztesa.xyz"
+    },
+    {
+      "name": "渔业实验室PC (临时演示用)",
+      "url": "https://flabpc.ztesa.xyz"
+    },
+    {
+      "name": "AI",
+      "url": "https://ai.ztesa.com.cn"
+    },
+    {
+      "name": "慈农优品H5",
+      "url": "https://cnyph5.ztesa.com.cn"
+    },
+    {
+      "name": "古林国有资产BI",
+      "url": "https://glgyzcbi.ztesa.com.cn"
+    },
+    {
+      "name": "古林人大PC端",
+      "url": "https://glrdglpc.ztesa.com.cn"
+    },
+    {
+      "name": "古林人大H5",
+      "url": "https://glrdglh5.ztesa.com.cn"
+    },
+    {
+      "name": "New数字基地驾驶舱BI",
+      "url": "https://szjdjsc.ztesa.com.cn"
+    },
+    {
+      "name": "象山数字文旅",
+      "url": "https://xqg.qyszwl.com"
+    },
+    {
+      "name": "长街农情监测BI",
+      "url": "https://cjbi.zgwlxc.cn"
+    },
+    {
+      "name": "云上大堰PC",
+      "url": "https://ysdyht.ztesa.com.cn"
+    },
+    {
+      "name": "新版追溯H5",
+      "url": "https://weichao.ztesa.com.cn"
+    },
+    {
+      "name": "茂新BI",
+      "url": "https://mxwlxcbi.zgwlxc.cn"
+    },
+    {
+      "name": "云上大堰",
+      "url": "https://ysdy.ztesa.com.cn"
+    },
+    {
+      "name": "茂新PC",
+      "url": "https://mxwlxcpc.zgwlxc.cn"
+    },
+    {
+      "name": "茂新H5",
+      "url": "https://mxwlxch5.zgwlxc.cn"
+    },
+    {
+      "name": "大黄鱼监管PC",
+      "url": "https://dhyjg.ztesa.com.cn"
+    },
+    {
+      "name": "余姚榨菜h5",
+      "url": "https://dhyjg.ztesa.com.cn"
+    },
+    {
+      "name": "农事服务中心BI",
+      "url": "https://yyzc-zwy.ztesa.com.cn"
+    },
+    {
+      "name": "农事服务中心h5",
+      "url": "https://nsfwzx.ztesa.com.cn"
+    },
+    {
+      "name": "城乡惠下载页",
+      "url": "https://dl3.ztesa.com.cn"
+    },
+    {
+      "name": "公司展厅",
+      "url": "https://zbh.ztesa.com.cn"
+    },
+    {
+      "name": "亚运会BI",
+      "url": "https://yyhbi.ztesa.com.cn"
+    },
+    {
+      "name": "数字基地BI(农起帮)",
+      "url": "https://szjd.ztesa.com.cn"
+    },
+    {
+      "name": "慈农H5",
+      "url": "https://cnfwh5.ztesa.com.cn"
+    },
+    {
+      "name": "慈农PC端",
+      "url": "https://cnfwpc.ztesa.com.cn"
+    },
+    {
+      "name": "数字文旅",
+      "url": "https://qyszwl.com"
+    },
+    {
+      "name": "时新BI",
+      "url": "https://sxsznc.ztesa.com.cn"
+    },
+    {
+      "name": "重庆共享冷库",
+      "url": "https://chongqing.zgwlxc.cn"
+    },
+    {
+      "name": "调试人员H5",
+      "url": "https://tsry.ztesa.com.cn"
+    },
+    {
+      "name": "基础平台H5",
+      "url": "https://basedata.ztesa.com.cn"
+    },
+    {
+      "name": "金融H5",
+      "url": "https://financeh5.ztesa.com.cn"
+    },
+    {
+      "name": "金融PC端",
+      "url": "https://financepc.ztesa.com.cn"
+    },
+    {
+      "name": "基础数据web",
+      "url": "https://121.37.129.206:8080"
+    },
+    {
+      "name": "大户带小富H5",
+      "url": "https://dhdxfh5.zgwlxc.cn"
+    },
+    {
+      "name": "大户带小富PC",
+      "url": "https://dhdxf.zgwlxc.cn"
+    },
+    {
+      "name": "余姚榨菜PC端",
+      "url": "https://yyzcpc.ztesa.com.cn"
+    },
+    {
+      "name": "余姚榨菜BI",
+      "url": "https://yyzcbi.ztesa.com.cn"
+    },
+    {
+      "name": "海洋实验室运维端",
+      "url": "https://121.37.129.206:8001"
+    },
+    {
+      "name": "海洋渔业实验室",
+      "url": "https://121.37.129.206:8000"
+    },
+    {
+      "name": "农行优惠券",
+      "url": "https://lnyj.ztesa.com.cn:7028"
+    },
+    {
+      "name": "慧农商户H5",
+      "url": "https://lnyj.ztesa.com.cn:7027"
+    },
+    {
+      "name": "甬农鲜驿站h5",
+      "url": "https://ynx.ztesa.com.cn:8080"
+    },
+    {
+      "name": "甬农鲜驿站h5 (alias)",
+      "url": "https://tqbx.ztesa.com.cn"
+    },
+    {
+      "name": "甬农鲜驿站h5 (alias)",
+      "url": "https://ynx.ztesa.com.cn"
+    },
+    {
+      "name": "甬农鲜驿站h5 (alias)",
+      "url": "https://ycpc.nongqibang.com"
+    },
+    {
+      "name": "甬农鲜驿站h5 (alias)",
+      "url": "https://qbx.ztesa.com.cn"
+    },
+    {
+      "name": "甬农鲜驿站h5 (alias)",
+      "url": "https://hsgd.ztesa.com.cn"
+    },
+    {
+      "name": "甬农鲜商户端",
+      "url": "https://shd.ztesa.com.cn"
+    },
+    {
+      "name": "食安办检测报告管理系统",
+      "url": "https://detect.ztesa.com.cn"
+    },
+    {
+      "name": "杨梅BI",
+      "url": "https://121.37.129.206:8081"
+    },
+    {
+      "name": "梁弄h5（第二套）",
+      "url": "https://lnyj2.ztesa.com.cn"
+    },
+    {
+      "name": "梁弄H5",
+      "url": "https://lnyj.ztesa.com.cn"
+    },
+    {
+      "name": "梁弄出票机Web",
+      "url": "https://lncp.ztesa.com.cn"
+    },
+    {
+      "name": "梁弄出票机Web (alias)",
+      "url": "https://xcxynx.nongqibang.com"
+    },
+    {
+      "name": "梁弄出票机Web (alias)",
+      "url": "https://xcxynx.nongqibang.com:7043"
+    },
+    {
+      "name": "姜山BI",
+      "url": "https://jsbi.zgwlxc.cn"
+    },
+    {
+      "name": "豇豆bi",
+      "url": "https://jdjg.ztesa.com.cn"
+    },
+    {
+      "name": "保险H5",
+      "url": "https://bx.ztesa.com.cn"
+    },
+    {
+      "name": "保险H5 (alias)",
+      "url": "https://bx.ztesa.com.cn:8991"
+    },
+    {
+      "name": "保险H5 (alias)",
+      "url": "https://bx.ztesa.com.cn:8990"
+    },
+    {
+      "name": "保险H5 (alias)",
+      "url": "https://bx.ztesa.com.cn:8100"
+    },
+    {
+      "name": "保险BI",
+      "url": "https://bx.ztesa.com.cn:7036"
+    },
+    {
+      "name": "氮磷生态拦截管理平台",
+      "url": "https://dlstlj.zgwlxc.cn"
+    },
+    {
+      "name": "众乐乐游戏端",
+      "url": "https://game.nbsznc.com"
+    },
+    {
+      "name": "众乐乐平台端H5",
+      "url": "https://bix.nbsznc.com"
+    },
+    {
+      "name": "秸秆政府端后台",
+      "url": "https://wfzg.ztesa.com.cn:8101"
+    },
+    {
+      "name": "秸秆回收企业后台",
+      "url": "https://wfzg.ztesa.com.cn:8100"
+    },
+    {
+      "name": "秸秆h5",
+      "url": "https://wfzg.ztesa.com.cn"
+    },
+    {
+      "name": "第三方验证登录H5",
+      "url": "https://thirdauth.nbsznc.com"
+    },
+    {
+      "name": "营销活动",
+      "url": "https://mactive.ztesa.com.cn"
+    },
+    {
+      "name": "手掌农场用户端H5下载页配置",
+      "url": "https://sznc.nongqibang.com"
+    },
+    {
+      "name": "未来乡村运维端",
+      "url": "https://system.zgwlxc.cn"
+    },
+    {
+      "name": "手掌农场运维端",
+      "url": "https://system.xn--j7qu0l1wkyhb.com"
+    },
+    {
+      "name": "手掌农场 直播管理平台",
+      "url": "https://play.nbsznc.com"
+    },
+    {
+      "name": "选品系统",
+      "url": "https://shopp.nbsznc.com"
+    },
+    {
+      "name": "手掌农场商户",
+      "url": "https://shop.nbsznc.com"
+    },
+    {
+      "name": "手掌农场商户 (alias)",
+      "url": "https://shop.nbsznc.com:8100"
+    },
+    {
+      "name": "手掌农场商户端",
+      "url": "https://shop.ztesa.com.cn"
+    },
+    {
+      "name": "私有化店铺",
+      "url": "https://syh.xn--j7qu0l1wkyhb.com"
+    },
+    {
+      "name": "市场供需PC",
+      "url": "https://sznc.nongqibang.com:8100"
+    },
+    {
+      "name": "市场供需H5",
+      "url": "https://scgx.ztesa.com.cn"
+    },
+    {
+      "name": "手掌农场商家管理平台",
+      "url": "https://pcshop.nbsznc.com"
+    },
+    {
+      "name": "惠享桥头用户端H5配置",
+      "url": "https://hxqt.xn--j7qu0l1wkyhb.com"
+    },
+    {
+      "name": "手掌农场用户端H5配置",
+      "url": "https://sznc.ztesa.com.cn"
+    },
+    {
+      "name": "手掌农场iOS下载配置",
+      "url": "https://iosdown.nongqibang.com"
+    },
+    {
+      "name": "手掌农场H5(电商)",
+      "url": "https://nbsznc.com"
+    },
+    {
+      "name": "慈溪数字乡村中台系统管理服务 手掌农场第二套中台系统管理",
+      "url": "https://extglzx.ztesa.com.cn"
+    },
+    {
+      "name": "中台系统管理",
+      "url": "https://middle.xn--j7qu0l1wkyhb.com"
+    },
+    {
+      "name": "直播H5",
+      "url": "https://live.nbsznc.com"
+    },
+    {
+      "name": "物联网代理",
+      "url": "https://sapi.ztesa.com.cn"
+    },
+    {
+      "name": "手掌农场api接口",
+      "url": "https://sapi.ztesa.com.cn"
+    },
+    {
+      "name": "海曙共享冷库BI",
+      "url": "https://hsgxlk.zgwlxc.cn:8080"
+    },
+    {
+      "name": "海曙共享冷库",
+      "url": "https://hsgxlk.zgwlxc.cn"
+    },
+    {
+      "name": "共享农机管理后台",
+      "url": "https://gxnj.ztesa.com.cn:8100"
+    },
+    {
+      "name": "共享农机h5",
+      "url": "https://gxnj.ztesa.com.cn"
+    },
+    {
+      "name": "手中农场app的api配置 (演示)",
+      "url": "https://api.xn--j7qu0l1wkyhb.com"
+    },
+    {
+      "name": "手掌农场app 的api配置",
+      "url": "https://szncapi.ztesa.com.cn"
+    },
+    {
+      "name": "掌农场app的api配置(旧)",
+      "url": "https://124.71.132.133:7041"
+    },
+    {
+      "name": "form-generator",
+      "url": "https://cxnync.zgwlxc.cn:7100"
+    },
+    {
+      "name": "慈溪数字乡村平台(new)",
+      "url": "https://cxnync.zgwlxc.cn"
+    },
+    {
+      "name": "慈溪数据采集管理平台",
+      "url": "https://ztcj.ztesa.com.cn:7100"
+    },
+    {
+      "name": "慈溪数据采集H5",
+      "url": "https://ztcj.ztesa.com.cn"
+    },
+    {
+      "name": "慈溪农业农村局 2021任务列表",
+      "url": "https://cxzzxt.zgwlxc.cn"
+    },
+    {
+      "name": "慈溪农业补助管理后台",
+      "url": "https://nybz.ztesa.com.cn:8100"
+    },
+    {
+      "name": "慈溪农业补助H5",
+      "url": "https://nybz.ztesa.com.cn"
+    },
+    {
+      "name": "慈溪统一登录",
+      "url": "https://login.ztesa.com.cn"
+    },
+    {
+      "name": "共享冷库管理端",
+      "url": "https://gxlkop.ztesa.com.cn"
+    },
+    {
+      "name": "共享冷库h5",
+      "url": "https://gxlk.ztesa.com.cn"
+    },
+    {
+      "name": "共享冷库h5 (alias)",
+      "url": "https://124.71.132.133:8100"
+    },
+    {
+      "name": "需求反馈管理后台",
+      "url": "https://xqfk.ztesa.com.cn:8100"
+    },
+    {
+      "name": "需求反馈",
+      "url": "https://xqfk.ztesa.com.cn"
+    },
+    {
+      "name": "共享冷库BI",
+      "url": "https://cs.zgwlxc.cn:8080"
+    },
+    {
+      "name": "共享冷库",
+      "url": "https://cs.zgwlxc.cn"
+    },
+    {
+      "name": "选品系统",
+      "url": "https://sel.nbsznc.com"
+    },
+    {
+      "name": "掌上农场后台管理",
+      "url": "https://biz.nbsznc.com"
+    },
+    {
+      "name": "手掌农场演示端",
+      "url": "https://biz.xn--j7qu0l1wkyhb.com:8001"
+    },
+    {
+      "name": "掌上农场后台管理",
+      "url": "https://biz.xn--j7qu0l1wkyhb.com"
+    },
+    {
+      "name": "农村资产管理",
+      "url": "https://biz2.nbsznc.com:8103"
+    },
+    {
+      "name": "运营管理后台",
+      "url": "https://biz2.nbsznc.com:8102"
+    },
+    {
+      "name": "App移动端管理后台",
+      "url": "https://biz2.nbsznc.con:8101"
+    },
+    {
+      "name": "应用支撑平台",
+      "url": "https://biz2.nbsznc.com:8100"
+    },
+    {
+      "name": "未来乡村管理端",
+      "url": "https://biz.zgwlxc.cn"
+    },
+    {
+      "name": "无废智管-秸秆后台管理",
+      "url": "https://wfzgjghspc.ztesa.com.cn"
+    },
+    {
+      "name": "无废智管-秸秆回收H5",
+      "url": "https://jghs.ztesa.com.cn"
+    },
+    {
+      "name": "无废质管Jeesite平台",
+      "url": "https://wfzgpc.ztesa.com.cn"
+    },
+    {
+      "name": "农起帮运营后台管理",
+      "url": "https://123.60.156.229:9100"
+    },
+    {
+      "name": "应急预警",
+      "url": "https://yjyj.ztesa.com.cn"
+    },
+    {
+      "name": "无废智管PC",
+      "url": "https://wfzgnzd.ztesa.com.cn:8000"
+    },
+    {
+      "name": "无废质管销售端",
+      "url": "https://wfzgnzd.ztesa.com.cn"
+    },
+    {
+      "name": "数智育秧PC",
+      "url": "https://szyypc.ztesa.com.cn"
+    },
+    {
+      "name": "数智育秧农资店",
+      "url": "https://szyynzd.ztesa.com.cn"
+    },
+    {
+      "name": "数智育秧H5",
+      "url": "https://szyygl.ztesa.com.cn"
+    },
+    {
+      "name": "数智育秧",
+      "url": "https://szyyfarmers.ztesa.com.cn"
+    },
+    {
+      "name": "护农通",
+      "url": "https://hnt.zgwlxc.cn"
+    },
+    {
+      "name": "geoserver 服务",
+      "url": "https://gis.ztesa.com.cn"
+    },
+    {
+      "name": "宁波市农业政策监管平台",
+      "url": "https://bxi.ztesa.com.cn"
+    },
+    {
+      "name": "微心愿",
+      "url": "https://wxy.ztesa.com.cn"
+    },
+    {
+      "name": "农起帮接口",
+      "url": "https://nqbapi.ztesa.com.cn"
+    },
+    {
+      "name": "共享冰爽爽",
+      "url": "https://coldbi.ztesa.com.cn"
+    },
+    {
+      "name": "客服聊天系统",
+      "url": "https://im.ztesa.com.cn"
+    },
+    {
+      "name": "农担BI",
+      "url": "https://ndbi.ztesa.com.cn"
+    },
+    {
+      "name": "慈溪共享冰爽爽",
+      "url": "https://gxbss.zgwlxc.cn/cx/"
+    },
+    {
+      "name": "慈溪共享冰爽爽BI",
+      "url": "https://cixicoldbss.ztesa.com.cn"
+    },
+    {
+      "name": "慈溪数字乡村BI",
+      "url": "https://cxny.zgwlxc.cn"
+    },
+    {
+      "name": "慈溪数字乡村BI (alias)",
+      "url": "https://cixicold.ztesa.com.cn"
+    },
+    {
+      "name": "慈溪数字乡村BI",
+      "url": "https://datav.zgwlxc.cn"
+    },
+    {
+      "name": "慈溪数字乡村平台",
+      "url": "https://datav.ztesa.com.cn"
+    },
+    {
+      "name": "未来乡村地图",
+      "url": "https://zgwlxc.cn"
+    },
+    {
+      "name": "未来乡村地图",
+      "url": "https://dlcy.ztesa.com.cn"
+    },
+    {
+      "name": "慈溪保险H5",
+      "url": "https://cxbx.ztesa.com.cn"
+    },
+    {
+      "name": "慈溪市芸天果蔬农场数字云平台",
+      "url": "https://ytbi.ztesa.com.cn"
+    },
+    {
+      "name": "食品溯源H5",
+      "url": "https://cxsy.ztesa.com.cn"
+    },
+    {
+      "name": "行政服务",
+      "url": "https://xzff.ztesa.com.cn"
+    },
+    {
+      "name": "农起帮运营平台",
+      "url": "https://ztesa.com.cn:7016/v2"
+    },
+    {
+      "name": "农起帮保险管理平台",
+      "url": "https://insuradmin.ztesa.com.cn/user/login"
+    },
+    {
+      "name": "农安文件一键通",
+      "url": "https://farmfile.ztesa.com.cn:7001"
+    },
+    {
+      "name": "农安网格员web",
+      "url": "https://farmgrid.ztesa.com.cn:7001"
+    },
+    {
+      "name": "监测机构",
+      "url": "https://inspect.ztesa.com.cn:7001"
+    },
+    {
+      "name": "农安信用",
+      "url": "https://farmtrust.ztesa.com.cn:7001"
+    },
+    {
+      "name": "主体一键通",
+      "url": "https://policy.ztesa.com.cn:7001"
+    },
+    {
+      "name": "监管追溯系统",
+      "url": "https://supe.ztesa.com.cn:7001"
+    },
+    {
+      "name": "监管追溯系统 (alias)",
+      "url": "https://audit.ztesa.com.cn:7001"
+    },
+    {
+      "name": "监管追溯系统 (alias)",
+      "url": "https://info.ztesa.com.cn:7001"
+    },
+    {
+      "name": "监管追溯系统 (alias)",
+      "url": "https://iot.ztesa.com.cn:7001"
+    },
+    {
+      "name": "监管追溯系统 (alias)",
+      "url": "https://main.ztesa.com.cn:7001"
+    },
+    {
+      "name": "监管追溯系统 (alias)",
+      "url": "https://credit.ztesa.com.cn:7001"
+    },
+    {
+      "name": "监管追溯系统 (alias)",
+      "url": "https://base.ztesa.com.cn:7001"
+    },
+    {
+      "name": "监管追溯系统 (alias)",
+      "url": "https://trust.ztesa.com.cn:7001"
+    },
+    {
+      "name": "监管追溯系统 (alias)",
+      "url": "https://check.ztesa.com.cn:7001"
+    },
+    {
+      "name": "监管追溯系统 (alias)",
+      "url": "https://bzh.ztesa.com.cn:7001"
+    },
+    {
+      "name": "企业黄页",
+      "url": "https://ztesa.com.cn:7010"
+    },
+    {
+      "name": "象山收储运",
+      "url": "https://ztesa.com.cn:7020"
+    },
+    {
+      "name": "八仙优品",
+      "url": "https://ztesa.com.cn:7006"
+    },
+    {
+      "name": "农业追溯系统",
+      "url": "https://ztesa.com.cn:7005"
+    },
+    {
+      "name": "浙政钉饲药两化看板",
+      "url": "https://sylhchart.ztesa.com.cn"
+    },
+    {
+      "name": "饲药两化BI",
+      "url": "https://sylhbi.ztesa.com.cn"
+    },
+    {
+      "name": "饲药两化后台管理",
+      "url": "https://sylhbi.ztesa.com.cn:7001"
+    },
+    {
+      "name": "饲药两化-诊疗机构端 兽医站",
+      "url": "https://sylhsyz.ztesa.com.cn"
+    },
+    {
+      "name": "饲药两化-畜牧主体端h5",
+      "url": "https://sylh.ztesa.com.cn"
+    },
+    {
+      "name": "饲药两化-回收端",
+      "url": "https://sylhhs.ztesa.com.cn"
+    },
+    {
+      "name": "农产品溯源h5",
+      "url": "https://ztesa.com.cn:7011"
+    },
+    {
+      "name": "北仑收储运",
+      "url": "https://ztesa.com.cn:7008"
+    },
+    {
+      "name": "新溯源h5",
+      "url": "https://ztesa.com.cn:7009"
+    },
+    {
+      "name": "农博会BI",
+      "url": "https://ztesa.com.cn:7015"
+    },
+    {
+      "name": "移动端统一地图平台",
+      "url": "https://sylhbi.nongqibang.com:7002/#/"
+    }
+  ],
+  "findings": [
+    {
+      "target": "趣八鲜",
+      "url": "https://ztesa.com.cn:7013/",
+      "resolvedUrl": "http://ztesa.com.cn:7013/",
+      "protocolSwapped": true,
+      "keys": [
+        "237cf80ec79bf6e2b0302d11acef2abf"
+      ]
+    },
+    {
+      "target": "姜山BI",
+      "url": "https://jsbi.zgwlxc.cn",
+      "resolvedUrl": "https://jsbi.zgwlxc.cn",
+      "protocolSwapped": false,
+      "keys": []
+    },
+    {
+      "target": "姜山驾驶舱接口",
+      "url": "https://jsjsc.ztesa.com.cn",
+      "resolvedUrl": "http://jsjsc.ztesa.com.cn",
+      "protocolSwapped": true,
+      "keys": []
+    },
+    {
+      "target": "海曙bi",
+      "url": "https://hsbi.zgwlxc.cn",
+      "resolvedUrl": "http://hsbi.zgwlxc.cn",
+      "protocolSwapped": true,
+      "keys": [
+        "runnerKeycodes"
+      ]
+    },
+    {
+      "target": "H5主体追溯",
+      "url": "https://ztesa.com.cn:7003",
+      "resolvedUrl": "http://ztesa.com.cn:7003",
+      "protocolSwapped": true,
+      "keys": []
+    },
+    {
+      "target": "追溯h5",
+      "url": "https://ztesa.com.cn:7009",
+      "resolvedUrl": "http://ztesa.com.cn:7009",
+      "protocolSwapped": true,
+      "keys": [
+        "b05eb1b8e59f3819993f61318decd608"
+      ]
+    },
+    {
+      "target": "H5产品追溯",
+      "url": "https://ztesa.com.cn:7004",
+      "error": "Cannot read properties of undefined (reading 'TimeoutError')"
+    },
+    {
+      "target": "网格H5",
+      "url": "https://farmgrid.zgwlxc.cn:7002",
+      "resolvedUrl": "http://farmgrid.zgwlxc.cn:7002",
+      "protocolSwapped": true,
+      "keys": [
+        "runnerKeycodes"
+      ]
+    },
+    {
+      "target": "肥药两制监管平台",
+      "url": "https://ztesa.com.cn:8004/user/login?redirect=%2F",
+      "resolvedUrl": "http://ztesa.com.cn:8004/user/login?redirect=%2F",
+      "protocolSwapped": true,
+      "keys": [
+        "98f0e6e872819d5cd51e4df54d537b50"
+      ]
+    },
+    {
+      "target": "国良物联网",
+      "url": "https://ztesa.com.cn:7029",
+      "resolvedUrl": "http://ztesa.com.cn:7029",
+      "protocolSwapped": true,
+      "keys": [
+        "runnerKeycodes"
+      ]
+    },
+    {
+      "target": "溯源h5",
+      "url": "https://trace.ztesa.com.cn",
+      "resolvedUrl": "https://trace.ztesa.com.cn",
+      "protocolSwapped": false,
+      "keys": [
+        "2cb40c34bc37917e630950d551112431"
+      ]
+    },
+    {
+      "target": "智安码黄页",
+      "url": "https://namyellow.ztesa.com.cn",
+      "resolvedUrl": "http://namyellow.ztesa.com.cn",
+      "protocolSwapped": true,
+      "keys": []
+    },
+    {
+      "target": "智安码后台管理",
+      "url": "https://namadmin.ztesa.com.cn",
+      "error": "Cannot read properties of undefined (reading 'TimeoutError')"
+    },
+    {
+      "target": "余姚榨菜H5",
+      "url": "https://yyzc-zwy.ztesa.com.cn/#/login",
+      "resolvedUrl": "https://yyzc-zwy.ztesa.com.cn/#/login",
+      "protocolSwapped": false,
+      "keys": [
+        "fdd7ec58beea29fd69bf784f5a234620"
+      ]
+    },
+    {
+      "target": "海曙种植大脑",
+      "url": "https://zzdn.ztesa.com.cn/#/login",
+      "resolvedUrl": "http://zzdn.ztesa.com.cn/#/login",
+      "protocolSwapped": true,
+      "keys": [
+        "fdd7ec58beea29fd69bf784f5a234620"
+      ]
+    },
+    {
+      "target": "智安码(农安码)",
+      "url": "https://nam.ztesa.com.cn",
+      "resolvedUrl": "https://nam.ztesa.com.cn",
+      "protocolSwapped": false,
+      "keys": []
+    },
+    {
+      "target": "慈溪BI",
+      "url": "https://ztesa.com.cn:7007",
+      "resolvedUrl": "http://ztesa.com.cn:7007",
+      "protocolSwapped": true,
+      "keys": [
+        "237cf80ec79bf6e2b0302d11acef2abf"
+      ]
+    },
+    {
+      "target": "监管门户网站",
+      "url": "https://ztesa.com.cn:7801",
+      "resolvedUrl": "http://ztesa.com.cn:7801",
+      "protocolSwapped": true,
+      "keys": []
+    },
+    {
+      "target": "慈溪市国家现代农业产业园数字云平台",
+      "url": "https://ztesa.com.cn:7078/login/",
+      "resolvedUrl": "http://ztesa.com.cn:7078/login/",
+      "protocolSwapped": true,
+      "keys": [
+        "237cf80ec79bf6e2b0302d11acef2abf"
+      ]
+    },
+    {
+      "target": "慈溪市国家现代农业产业园数字云平台 (alias)",
+      "url": "https://ztesa.com.cn:7077/login/",
+      "resolvedUrl": "http://ztesa.com.cn:7077/login/",
+      "protocolSwapped": true,
+      "keys": [
+        "237cf80ec79bf6e2b0302d11acef2abf"
+      ]
+    },
+    {
+      "target": "慧AIPC端",
+      "url": "https://hai.ztesa.com.cn",
+      "resolvedUrl": "http://hai.ztesa.com.cn",
+      "protocolSwapped": true,
+      "keys": []
+    },
+    {
+      "target": "慧AI运营平台",
+      "url": "https://haiyy.ztesa.com.cn",
+      "resolvedUrl": "http://haiyy.ztesa.com.cn",
+      "protocolSwapped": true,
+      "keys": [
+        "98f0e6e872819d5cd51e4df54d537b50"
+      ]
+    },
+    {
+      "target": "象山秸秆监管端",
+      "url": "https://xsjgpc.ztesa.com.cn",
+      "resolvedUrl": "http://xsjgpc.ztesa.com.cn",
+      "protocolSwapped": true,
+      "keys": []
+    },
+    {
+      "target": "姜山镇秸秆监管端",
+      "url": "https://jszjgpc.ztesa.com.cn",
+      "resolvedUrl": "http://jszjgpc.ztesa.com.cn",
+      "protocolSwapped": true,
+      "keys": []
+    },
+    {
+      "target": "慧考试H5",
+      "url": "https://hksh5.ztesa.com.cn",
+      "resolvedUrl": "https://hksh5.ztesa.com.cn",
+      "protocolSwapped": false,
+      "keys": [
+        "fdd7ec58beea29fd69bf784f5a234620"
+      ]
+    },
+    {
+      "target": "慧考试PC",
+      "url": "https://hks.ztesa.com.cn",
+      "resolvedUrl": "http://hks.ztesa.com.cn",
+      "protocolSwapped": true,
+      "keys": [
+        "98f0e6e872819d5cd51e4df54d537b50"
+      ]
+    },
+    {
+      "target": "浙政钉数字乡村",
+      "url": "https://szjdjsczzd.ztesa.com.cn",
+      "resolvedUrl": "http://szjdjsczzd.ztesa.com.cn",
+      "protocolSwapped": true,
+      "keys": [
+        "fdd7ec58beea29fd69bf784f5a234620"
+      ]
+    },
+    {
+      "target": "达飞滴BI",
+      "url": "https://dfdbi.ztesa.com.cn",
+      "resolvedUrl": "http://dfdbi.ztesa.com.cn",
+      "protocolSwapped": true,
+      "keys": []
+    },
+    {
+      "target": "主体信息采集",
+      "url": "https://ztxxcj.ztesa.com.cn",
+      "resolvedUrl": "http://ztxxcj.ztesa.com.cn",
+      "protocolSwapped": true,
+      "keys": []
+    },
+    {
+      "target": "茂新管理后台地址",
+      "url": "https://mxwlxcop.zgwlxc.cn",
+      "resolvedUrl": "http://mxwlxcop.zgwlxc.cn",
+      "protocolSwapped": true,
+      "keys": []
+    },
+    {
+      "target": "鹿鹿通PC",
+      "url": "https://lltpc.ztesa.com.cn",
+      "resolvedUrl": "http://lltpc.ztesa.com.cn",
+      "protocolSwapped": true,
+      "keys": []
+    },
+    {
+      "target": "鹿鹿通H5",
+      "url": "https://llth5.ztesa.com.cn",
+      "resolvedUrl": "http://llth5.ztesa.com.cn",
+      "protocolSwapped": true,
+      "keys": []
+    },
+    {
+      "target": "掌上农场PC",
+      "url": "https://zsncpc.ztesa.com.cn",
+      "resolvedUrl": "http://zsncpc.ztesa.com.cn",
+      "protocolSwapped": true,
+      "keys": [
+        "98f0e6e872819d5cd51e4df54d537b50"
+      ]
+    },
+    {
+      "target": "掌上农场H5",
+      "url": "https://zsnch5.ztesa.com.cn",
+      "resolvedUrl": "http://zsnch5.ztesa.com.cn",
+      "protocolSwapped": true,
+      "keys": []
+    },
+    {
+      "target": "达飞滴H5-国鹿域名",
+      "url": "https://dfdh5.zgguolu.com.cn",
+      "error": "Cannot read properties of undefined (reading 'TimeoutError')"
+    },
+    {
+      "target": "国鹿支付域名",
+      "url": "https://pay.zgguolu.com.cn",
+      "resolvedUrl": "https://pay.zgguolu.com.cn",
+      "protocolSwapped": false,
+      "keys": []
+    },
+    {
+      "target": "达飞滴后台代理",
+      "url": "https://dfdht.ztesa.com.cn",
+      "resolvedUrl": "http://dfdht.ztesa.com.cn",
+      "protocolSwapped": true,
+      "keys": [
+        "Base64"
+      ]
+    },
+    {
+      "target": "达飞滴PC端",
+      "url": "https://dfdpc.ztesa.com.cn",
+      "resolvedUrl": "http://dfdpc.ztesa.com.cn",
+      "protocolSwapped": true,
+      "keys": [
+        "98f0e6e872819d5cd51e4df54d537b50"
+      ]
+    },
+    {
+      "target": "慧收储",
+      "url": "https://hsc.ztesa.com.cn",
+      "resolvedUrl": "http://hsc.ztesa.com.cn",
+      "protocolSwapped": true,
+      "keys": [
+        "98f0e6e872819d5cd51e4df54d537b50"
+      ]
+    },
+    {
+      "target": "达飞滴H5",
+      "url": "https://dfdh5.ztesa.com.cn",
+      "resolvedUrl": "https://dfdh5.ztesa.com.cn",
+      "protocolSwapped": false,
+      "keys": []
+    },
+    {
+      "target": "新慧应用",
+      "url": "https://hyy2.ztesa.com.cn",
+      "resolvedUrl": "http://hyy2.ztesa.com.cn",
+      "protocolSwapped": true,
+      "keys": []
+    },
+    {
+      "target": "客户使用农事服务H5",
+      "url": "https://cnsfwh5.ztesa.com.cn",
+      "resolvedUrl": "http://cnsfwh5.ztesa.com.cn",
+      "protocolSwapped": true,
+      "keys": [
+        "fdd7ec58beea29fd69bf784f5a234620",
+        "6390a3889f10aff1cb5b1e153c41185d"
+      ]
+    },
+    {
+      "target": "芹菜BI",
+      "url": "https://qcbi.ztesa.com.cn",
+      "resolvedUrl": "http://qcbi.ztesa.com.cn",
+      "protocolSwapped": true,
+      "keys": [
+        "fdd7ec58beea29fd69bf784f5a234620"
+      ]
+    },
+    {
+      "target": "绿鑫, 绿丰农事服务中心2",
+      "url": "https://lfnsfwzx.ztesa.com.cn",
+      "resolvedUrl": "http://lfnsfwzx.ztesa.com.cn",
+      "protocolSwapped": true,
+      "keys": [
+        "98f0e6e872819d5cd51e4df54d537b50"
+      ]
+    },
+    {
+      "target": "杨梅BI",
+      "url": "https://ymbi.ztesa.com.cn",
+      "resolvedUrl": "http://ymbi.ztesa.com.cn",
+      "protocolSwapped": true,
+      "keys": [
+        "fdd7ec58beea29fd69bf784f5a234620"
+      ]
+    },
+    {
+      "target": "江南村PC",
+      "url": "https://jncpc.ztesa.com.cn",
+      "resolvedUrl": "http://jncpc.ztesa.com.cn",
+      "protocolSwapped": true,
+      "keys": [
+        "98f0e6e872819d5cd51e4df54d537b50"
+      ]
+    },
+    {
+      "target": "江南村BI",
+      "url": "https://jncbi.ztesa.com.cn",
+      "resolvedUrl": "http://jncbi.ztesa.com.cn",
+      "protocolSwapped": true,
+      "keys": [
+        "fdd7ec58beea29fd69bf784f5a234620"
+      ]
+    },
+    {
+      "target": "慈溪江南村H5",
+      "url": "https://cxjnch5.ztesa.com.cn",
+      "resolvedUrl": "http://cxjnch5.ztesa.com.cn",
+      "protocolSwapped": true,
+      "keys": []
+    },
+    {
+      "target": "慈溪江南村PC",
+      "url": "https://cxjncpc.ztesa.com.cn",
+      "resolvedUrl": "http://cxjncpc.ztesa.com.cn",
+      "protocolSwapped": true,
+      "keys": []
+    },
+    {
+      "target": "宁海望海岗茶园",
+      "url": "https://szjdwlbi.ztesa.com.cn",
+      "error": "Cannot read properties of undefined (reading 'TimeoutError')"
+    },
+    {
+      "target": "宁海绿鑫、绿丰农事服务中心",
+      "url": "https://lxlfnsfwzx.ztesa.com.cn",
+      "resolvedUrl": "http://lxlfnsfwzx.ztesa.com.cn",
+      "protocolSwapped": true,
+      "keys": [
+        "98f0e6e872819d5cd51e4df54d537b50"
+      ]
+    },
+    {
+      "target": "气象局PC",
+      "url": "https://qxjpc.ztesa.com.cn",
+      "resolvedUrl": "http://qxjpc.ztesa.com.cn",
+      "protocolSwapped": true,
+      "keys": [
+        "98f0e6e872819d5cd51e4df54d537b50"
+      ]
+    },
+    {
+      "target": "慧应用",
+      "url": "https://hyy.ztesa.com.cn",
+      "resolvedUrl": "http://hyy.ztesa.com.cn",
+      "protocolSwapped": true,
+      "keys": []
+    },
+    {
+      "target": "慧收储PC",
+      "url": "https://hscpc.ztesa.com.cn",
+      "resolvedUrl": "http://hscpc.ztesa.com.cn",
+      "protocolSwapped": true,
+      "keys": [
+        "98f0e6e872819d5cd51e4df54d537b50"
+      ]
+    },
+    {
+      "target": "物联网设备库",
+      "url": "https://wlwsbglpc.ztesa.com.cn",
+      "resolvedUrl": "http://wlwsbglpc.ztesa.com.cn",
+      "protocolSwapped": true,
+      "keys": [
+        "98f0e6e872819d5cd51e4df54d537b50"
+      ]
+    },
+    {
+      "target": "效能管理PC系统",
+      "url": "https://xngl.ztesa.com.cn",
+      "resolvedUrl": "http://xngl.ztesa.com.cn",
+      "protocolSwapped": true,
+      "keys": [
+        "98f0e6e872819d5cd51e4df54d537b50"
+      ]
+    },
+    {
+      "target": "热力指数(乡村振兴)",
+      "url": "https://zxxc.simple.ztesa.xyz",
+      "resolvedUrl": "http://zxxc.simple.ztesa.xyz",
+      "protocolSwapped": true,
+      "keys": [
+        "fdd7ec58beea29fd69bf784f5a234620"
+      ]
+    },
+    {
+      "target": "农起帮物联网定位手表接口",
+      "url": "https://iotpro.ztesa.com.cn",
+      "resolvedUrl": "http://iotpro.ztesa.com.cn",
+      "protocolSwapped": true,
+      "keys": []
+    },
+    {
+      "target": "效能管理系统h5",
+      "url": "https://ims.ztesa.com.cn",
+      "resolvedUrl": "http://ims.ztesa.com.cn",
+      "protocolSwapped": true,
+      "keys": [
+        "fdd7ec58beea29fd69bf784f5a234620",
+        "575f48d9b40968e2974131dc2c7f1f36",
+        "bc568ce51938e326ae79dc4e8c8dc155"
+      ]
+    },
+    {
+      "target": "国鹿公司官网",
+      "url": "https://zgguolu.com.cn",
+      "resolvedUrl": "https://zgguolu.com.cn",
+      "protocolSwapped": false,
+      "keys": []
+    },
+    {
+      "target": "智慧排污(雨污)",
+      "url": "https://adyw.ztesa.com.cn",
+      "resolvedUrl": "http://adyw.ztesa.com.cn",
+      "protocolSwapped": true,
+      "keys": [
+        "98f0e6e872819d5cd51e4df54d537b50"
+      ]
+    },
+    {
+      "target": "市版农事服务中心BI",
+      "url": "https://nsfwzxsbbi.ztesa.com.cn",
+      "resolvedUrl": "http://nsfwzxsbbi.ztesa.com.cn",
+      "protocolSwapped": true,
+      "keys": [
+        "fdd7ec58beea29fd69bf784f5a234620"
+      ]
+    },
+    {
+      "target": "政策保险2",
+      "url": "https://bx2.ztesa.com.cn",
+      "resolvedUrl": "http://bx2.ztesa.com.cn",
+      "protocolSwapped": true,
+      "keys": [
+        "Base64"
+      ]
+    },
+    {
+      "target": "余姚秸秆监管端",
+      "url": "https://yyjgpc.ztesa.com.cn",
+      "resolvedUrl": "http://yyjgpc.ztesa.com.cn",
+      "protocolSwapped": true,
+      "keys": []
+    },
+    {
+      "target": "余姚秸秆主体端",
+      "url": "https://yyjgztd.ztesa.com.cn",
+      "resolvedUrl": "http://yyjgztd.ztesa.com.cn",
+      "protocolSwapped": true,
+      "keys": []
+    },
+    {
+      "target": "种粮小农",
+      "url": "https://szyypc.ztesa.com.cn",
+      "resolvedUrl": "https://szyypc.ztesa.com.cn",
+      "protocolSwapped": false,
+      "keys": []
+    },
+    {
+      "target": "龙头企业BI",
+      "url": "https://ltqybi.ztesa.com.cn",
+      "resolvedUrl": "http://ltqybi.ztesa.com.cn",
+      "protocolSwapped": true,
+      "keys": [
+        "fdd7ec58beea29fd69bf784f5a234620",
+        "983cc70aa17d38f89953b61d6ff09190"
+      ]
+    },
+    {
+      "target": "龙头企业监管端",
+      "url": "https://ltqyjg.ztesa.com.cn",
+      "resolvedUrl": "http://ltqyjg.ztesa.com.cn",
+      "protocolSwapped": true,
+      "keys": []
+    },
+    {
+      "target": "龙头企业主体端",
+      "url": "https://ltqyzt.ztesa.com.cn",
+      "resolvedUrl": "http://ltqyzt.ztesa.com.cn",
+      "protocolSwapped": true,
+      "keys": []
+    },
+    {
+      "target": "农场led",
+      "url": "https://led.ztesa.com.cn",
+      "resolvedUrl": "http://led.ztesa.com.cn",
+      "protocolSwapped": true,
+      "keys": []
+    },
+    {
+      "target": "慈溪驾驶舱",
+      "url": "https://datav.zgwlxc.cn",
+      "resolvedUrl": "https://datav.zgwlxc.cn",
+      "protocolSwapped": false,
+      "keys": []
+    },
+    {
+      "target": "阿明农场BI",
+      "url": "https://amncbi.ztesa.com.cn",
+      "resolvedUrl": "https://amncbi.ztesa.com.cn",
+      "protocolSwapped": false,
+      "keys": [
+        "fdd7ec58beea29fd69bf784f5a234620"
+      ]
+    },
+    {
+      "target": "宁海秸秆监管端pc",
+      "url": "https://nhjgpc.ztesa.com.cn",
+      "resolvedUrl": "http://nhjgpc.ztesa.com.cn",
+      "protocolSwapped": true,
+      "keys": []
+    },
+    {
+      "target": "宁海秸秆主体端pc",
+      "url": "https://nhjgztd.ztesa.com.cn",
+      "resolvedUrl": "http://nhjgztd.ztesa.com.cn",
+      "protocolSwapped": true,
+      "keys": []
+    },
+    {
+      "target": "农事服务中心PC+BI",
+      "url": "https://nsfwzxpc.ztesa.com.cn",
+      "resolvedUrl": "http://nsfwzxpc.ztesa.com.cn",
+      "protocolSwapped": true,
+      "keys": [
+        "98f0e6e872819d5cd51e4df54d537b50"
+      ]
+    },
+    {
+      "target": "农起帮积分系统",
+      "url": "https://nqbjfsc.ztesa.com.cn",
+      "resolvedUrl": "http://nqbjfsc.ztesa.com.cn",
+      "protocolSwapped": true,
+      "keys": []
+    },
+    {
+      "target": "渔业实验室后台(临时演示用)",
+      "url": "https://flabht.ztesa.xyz",
+      "resolvedUrl": "http://flabht.ztesa.xyz",
+      "protocolSwapped": true,
+      "keys": []
+    },
+    {
+      "target": "渔业实验室PC (临时演示用)",
+      "url": "https://flabpc.ztesa.xyz",
+      "resolvedUrl": "http://flabpc.ztesa.xyz",
+      "protocolSwapped": true,
+      "keys": []
+    },
+    {
+      "target": "AI",
+      "url": "https://ai.ztesa.com.cn",
+      "resolvedUrl": "http://ai.ztesa.com.cn",
+      "protocolSwapped": true,
+      "keys": []
+    },
+    {
+      "target": "慈农优品H5",
+      "url": "https://cnyph5.ztesa.com.cn",
+      "resolvedUrl": "https://cnyph5.ztesa.com.cn",
+      "protocolSwapped": false,
+      "keys": [
+        "575f48d9b40968e2974131dc2c7f1f36",
+        "bc568ce51938e326ae79dc4e8c8dc155"
+      ]
+    },
+    {
+      "target": "古林国有资产BI",
+      "url": "https://glgyzcbi.ztesa.com.cn",
+      "resolvedUrl": "http://glgyzcbi.ztesa.com.cn",
+      "protocolSwapped": true,
+      "keys": []
+    },
+    {
+      "target": "古林人大PC端",
+      "url": "https://glrdglpc.ztesa.com.cn",
+      "resolvedUrl": "http://glrdglpc.ztesa.com.cn",
+      "protocolSwapped": true,
+      "keys": []
+    },
+    {
+      "target": "古林人大H5",
+      "url": "https://glrdglh5.ztesa.com.cn",
+      "resolvedUrl": "http://glrdglh5.ztesa.com.cn",
+      "protocolSwapped": true,
+      "keys": []
+    },
+    {
+      "target": "New数字基地驾驶舱BI",
+      "url": "https://szjdjsc.ztesa.com.cn",
+      "error": "Cannot read properties of undefined (reading 'TimeoutError')"
+    },
+    {
+      "target": "象山数字文旅",
+      "url": "https://xqg.qyszwl.com",
+      "error": "Cannot read properties of undefined (reading 'TimeoutError')"
+    },
+    {
+      "target": "长街农情监测BI",
+      "url": "https://cjbi.zgwlxc.cn",
+      "resolvedUrl": "https://cjbi.zgwlxc.cn",
+      "protocolSwapped": false,
+      "keys": [
+        "fdd7ec58beea29fd69bf784f5a234620"
+      ]
+    },
+    {
+      "target": "云上大堰PC",
+      "url": "https://ysdyht.ztesa.com.cn",
+      "resolvedUrl": "https://ysdyht.ztesa.com.cn",
+      "protocolSwapped": false,
+      "keys": []
+    },
+    {
+      "target": "新版追溯H5",
+      "url": "https://weichao.ztesa.com.cn",
+      "resolvedUrl": "https://weichao.ztesa.com.cn",
+      "protocolSwapped": false,
+      "keys": [
+        "fdd7ec58beea29fd69bf784f5a234620",
+        "2cb40c34bc37917e630950d551112431"
+      ]
+    },
+    {
+      "target": "茂新BI",
+      "url": "https://mxwlxcbi.zgwlxc.cn",
+      "resolvedUrl": "http://mxwlxcbi.zgwlxc.cn",
+      "protocolSwapped": true,
+      "keys": [
+        "fdd7ec58beea29fd69bf784f5a234620"
+      ]
+    },
+    {
+      "target": "云上大堰",
+      "url": "https://ysdy.ztesa.com.cn",
+      "resolvedUrl": "https://ysdy.ztesa.com.cn",
+      "protocolSwapped": false,
+      "keys": []
+    },
+    {
+      "target": "茂新PC",
+      "url": "https://mxwlxcpc.zgwlxc.cn",
+      "resolvedUrl": "http://mxwlxcpc.zgwlxc.cn",
+      "protocolSwapped": true,
+      "keys": [
+        "98f0e6e872819d5cd51e4df54d537b50"
+      ]
+    },
+    {
+      "target": "茂新H5",
+      "url": "https://mxwlxch5.zgwlxc.cn",
+      "resolvedUrl": "https://mxwlxch5.zgwlxc.cn",
+      "protocolSwapped": false,
+      "keys": [
+        "575f48d9b40968e2974131dc2c7f1f36",
+        "fdd7ec58beea29fd69bf784f5a234620"
+      ]
+    },
+    {
+      "target": "大黄鱼监管PC",
+      "url": "https://dhyjg.ztesa.com.cn",
+      "resolvedUrl": "http://dhyjg.ztesa.com.cn",
+      "protocolSwapped": true,
+      "keys": [
+        "d2f36c48bdbfaf697e2967344141418d"
+      ]
+    },
+    {
+      "target": "余姚榨菜h5",
+      "url": "https://dhyjg.ztesa.com.cn",
+      "resolvedUrl": "http://dhyjg.ztesa.com.cn",
+      "protocolSwapped": true,
+      "keys": [
+        "d2f36c48bdbfaf697e2967344141418d"
+      ]
+    },
+    {
+      "target": "农事服务中心BI",
+      "url": "https://yyzc-zwy.ztesa.com.cn",
+      "resolvedUrl": "https://yyzc-zwy.ztesa.com.cn",
+      "protocolSwapped": false,
+      "keys": [
+        "fdd7ec58beea29fd69bf784f5a234620"
+      ]
+    },
+    {
+      "target": "农事服务中心h5",
+      "url": "https://nsfwzx.ztesa.com.cn",
+      "resolvedUrl": "http://nsfwzx.ztesa.com.cn",
+      "protocolSwapped": true,
+      "keys": [
+        "fdd7ec58beea29fd69bf784f5a234620",
+        "6390a3889f10aff1cb5b1e153c41185d"
+      ]
+    },
+    {
+      "target": "城乡惠下载页",
+      "url": "https://dl3.ztesa.com.cn",
+      "resolvedUrl": "http://dl3.ztesa.com.cn",
+      "protocolSwapped": true,
+      "keys": []
+    },
+    {
+      "target": "公司展厅",
+      "url": "https://zbh.ztesa.com.cn",
+      "resolvedUrl": "http://zbh.ztesa.com.cn",
+      "protocolSwapped": true,
+      "keys": [
+        "fdd7ec58beea29fd69bf784f5a234620"
+      ]
+    },
+    {
+      "target": "亚运会BI",
+      "url": "https://yyhbi.ztesa.com.cn",
+      "resolvedUrl": "http://yyhbi.ztesa.com.cn",
+      "protocolSwapped": true,
+      "keys": [
+        "fdd7ec58beea29fd69bf784f5a234620"
+      ]
+    },
+    {
+      "target": "数字基地BI(农起帮)",
+      "url": "https://szjd.ztesa.com.cn",
+      "resolvedUrl": "http://szjd.ztesa.com.cn",
+      "protocolSwapped": true,
+      "keys": [
+        "fdd7ec58beea29fd69bf784f5a234620"
+      ]
+    },
+    {
+      "target": "慈农H5",
+      "url": "https://cnfwh5.ztesa.com.cn",
+      "resolvedUrl": "https://cnfwh5.ztesa.com.cn",
+      "protocolSwapped": false,
+      "keys": [
+        "fdd7ec58beea29fd69bf784f5a234620"
+      ]
+    },
+    {
+      "target": "慈农PC端",
+      "url": "https://cnfwpc.ztesa.com.cn",
+      "resolvedUrl": "http://cnfwpc.ztesa.com.cn",
+      "protocolSwapped": true,
+      "keys": [
+        "98f0e6e872819d5cd51e4df54d537b50"
+      ]
+    },
+    {
+      "target": "数字文旅",
+      "url": "https://qyszwl.com",
+      "resolvedUrl": "https://qyszwl.com",
+      "protocolSwapped": false,
+      "keys": [
+        "98f0e6e872819d5cd51e4df54d537b50"
+      ]
+    },
+    {
+      "target": "时新BI",
+      "url": "https://sxsznc.ztesa.com.cn",
+      "resolvedUrl": "https://sxsznc.ztesa.com.cn",
+      "protocolSwapped": false,
+      "keys": []
+    },
+    {
+      "target": "重庆共享冷库",
+      "url": "https://chongqing.zgwlxc.cn",
+      "resolvedUrl": "http://chongqing.zgwlxc.cn",
+      "protocolSwapped": true,
+      "keys": []
+    },
+    {
+      "target": "调试人员H5",
+      "url": "https://tsry.ztesa.com.cn",
+      "resolvedUrl": "http://tsry.ztesa.com.cn",
+      "protocolSwapped": true,
+      "keys": []
+    },
+    {
+      "target": "基础平台H5",
+      "url": "https://basedata.ztesa.com.cn",
+      "resolvedUrl": "http://basedata.ztesa.com.cn",
+      "protocolSwapped": true,
+      "keys": [
+        "fdd7ec58beea29fd69bf784f5a234620"
+      ]
+    },
+    {
+      "target": "金融H5",
+      "url": "https://financeh5.ztesa.com.cn",
+      "resolvedUrl": "https://financeh5.ztesa.com.cn",
+      "protocolSwapped": false,
+      "keys": []
+    },
+    {
+      "target": "金融PC端",
+      "url": "https://financepc.ztesa.com.cn",
+      "resolvedUrl": "http://financepc.ztesa.com.cn",
+      "protocolSwapped": true,
+      "keys": []
+    },
+    {
+      "target": "基础数据web",
+      "url": "https://121.37.129.206:8080",
+      "resolvedUrl": "http://121.37.129.206:8080",
+      "protocolSwapped": true,
+      "keys": [
+        "fdd7ec58beea29fd69bf784f5a234620"
+      ]
+    },
+    {
+      "target": "大户带小富H5",
+      "url": "https://dhdxfh5.zgwlxc.cn",
+      "resolvedUrl": "https://dhdxfh5.zgwlxc.cn",
+      "protocolSwapped": false,
+      "keys": [
+        "fdd7ec58beea29fd69bf784f5a234620"
+      ]
+    },
+    {
+      "target": "大户带小富PC",
+      "url": "https://dhdxf.zgwlxc.cn",
+      "resolvedUrl": "https://dhdxf.zgwlxc.cn",
+      "protocolSwapped": false,
+      "keys": []
+    },
+    {
+      "target": "余姚榨菜PC端",
+      "url": "https://yyzcpc.ztesa.com.cn",
+      "resolvedUrl": "https://yyzcpc.ztesa.com.cn",
+      "protocolSwapped": false,
+      "keys": [
+        "1234567890abcdef"
+      ]
+    },
+    {
+      "target": "余姚榨菜BI",
+      "url": "https://yyzcbi.ztesa.com.cn",
+      "resolvedUrl": "https://yyzcbi.ztesa.com.cn",
+      "protocolSwapped": false,
+      "keys": [
+        "1234567890abcdef",
+        "fdd7ec58beea29fd69bf784f5a234620"
+      ]
+    },
+    {
+      "target": "海洋实验室运维端",
+      "url": "https://121.37.129.206:8001",
+      "resolvedUrl": "http://121.37.129.206:8001",
+      "protocolSwapped": true,
+      "keys": []
+    },
+    {
+      "target": "海洋渔业实验室",
+      "url": "https://121.37.129.206:8000",
+      "resolvedUrl": "http://121.37.129.206:8000",
+      "protocolSwapped": true,
+      "keys": []
+    },
+    {
+      "target": "农行优惠券",
+      "url": "https://lnyj.ztesa.com.cn:7028",
+      "resolvedUrl": "https://lnyj.ztesa.com.cn:7028",
+      "protocolSwapped": false,
+      "keys": []
+    },
+    {
+      "target": "慧农商户H5",
+      "url": "https://lnyj.ztesa.com.cn:7027",
+      "resolvedUrl": "https://lnyj.ztesa.com.cn:7027",
+      "protocolSwapped": false,
+      "keys": []
+    },
+    {
+      "target": "甬农鲜驿站h5",
+      "url": "https://ynx.ztesa.com.cn:8080",
+      "resolvedUrl": "http://ynx.ztesa.com.cn:8080",
+      "protocolSwapped": true,
+      "keys": []
+    },
+    {
+      "target": "甬农鲜驿站h5 (alias)",
+      "url": "https://tqbx.ztesa.com.cn",
+      "resolvedUrl": "http://tqbx.ztesa.com.cn",
+      "protocolSwapped": true,
+      "keys": []
+    },
+    {
+      "target": "甬农鲜驿站h5 (alias)",
+      "url": "https://ynx.ztesa.com.cn",
+      "resolvedUrl": "https://ynx.ztesa.com.cn",
+      "protocolSwapped": false,
+      "keys": [
+        "b05eb1b8e59f3819993f61318decd608"
+      ]
+    },
+    {
+      "target": "甬农鲜驿站h5 (alias)",
+      "url": "https://ycpc.nongqibang.com",
+      "resolvedUrl": "https://ycpc.nongqibang.com",
+      "protocolSwapped": false,
+      "keys": []
+    },
+    {
+      "target": "甬农鲜驿站h5 (alias)",
+      "url": "https://qbx.ztesa.com.cn",
+      "resolvedUrl": "https://qbx.ztesa.com.cn",
+      "protocolSwapped": false,
+      "keys": []
+    },
+    {
+      "target": "甬农鲜驿站h5 (alias)",
+      "url": "https://hsgd.ztesa.com.cn",
+      "resolvedUrl": "http://hsgd.ztesa.com.cn",
+      "protocolSwapped": true,
+      "keys": [
+        "Base64"
+      ]
+    },
+    {
+      "target": "甬农鲜商户端",
+      "url": "https://shd.ztesa.com.cn",
+      "resolvedUrl": "http://shd.ztesa.com.cn",
+      "protocolSwapped": true,
+      "keys": [
+        "runnerKeycodes"
+      ]
+    },
+    {
+      "target": "食安办检测报告管理系统",
+      "url": "https://detect.ztesa.com.cn",
+      "resolvedUrl": "http://detect.ztesa.com.cn",
+      "protocolSwapped": true,
+      "keys": []
+    },
+    {
+      "target": "杨梅BI",
+      "url": "https://121.37.129.206:8081",
+      "resolvedUrl": "http://121.37.129.206:8081",
+      "protocolSwapped": true,
+      "keys": []
+    },
+    {
+      "target": "梁弄h5（第二套）",
+      "url": "https://lnyj2.ztesa.com.cn",
+      "resolvedUrl": "https://lnyj2.ztesa.com.cn",
+      "protocolSwapped": false,
+      "keys": [
+        "575f48d9b40968e2974131dc2c7f1f36"
+      ]
+    },
+    {
+      "target": "梁弄H5",
+      "url": "https://lnyj.ztesa.com.cn",
+      "resolvedUrl": "https://lnyj.ztesa.com.cn",
+      "protocolSwapped": false,
+      "keys": []
+    },
+    {
+      "target": "梁弄出票机Web",
+      "url": "https://lncp.ztesa.com.cn",
+      "resolvedUrl": "https://lncp.ztesa.com.cn",
+      "protocolSwapped": false,
+      "keys": []
+    },
+    {
+      "target": "梁弄出票机Web (alias)",
+      "url": "https://xcxynx.nongqibang.com",
+      "error": "Cannot read properties of undefined (reading 'TimeoutError')"
+    },
+    {
+      "target": "梁弄出票机Web (alias)",
+      "url": "https://xcxynx.nongqibang.com:7043",
+      "error": "Cannot read properties of undefined (reading 'TimeoutError')"
+    },
+    {
+      "target": "姜山BI",
+      "url": "https://jsbi.zgwlxc.cn",
+      "resolvedUrl": "https://jsbi.zgwlxc.cn",
+      "protocolSwapped": false,
+      "keys": []
+    },
+    {
+      "target": "豇豆bi",
+      "url": "https://jdjg.ztesa.com.cn",
+      "resolvedUrl": "http://jdjg.ztesa.com.cn",
+      "protocolSwapped": true,
+      "keys": [
+        "fdd7ec58beea29fd69bf784f5a234620"
+      ]
+    },
+    {
+      "target": "保险H5",
+      "url": "https://bx.ztesa.com.cn",
+      "resolvedUrl": "https://bx.ztesa.com.cn",
+      "protocolSwapped": false,
+      "keys": [
+        "Base64"
+      ]
+    },
+    {
+      "target": "保险H5 (alias)",
+      "url": "https://bx.ztesa.com.cn:8991",
+      "resolvedUrl": "https://bx.ztesa.com.cn:8991",
+      "protocolSwapped": false,
+      "keys": [
+        "Base64"
+      ]
+    },
+    {
+      "target": "保险H5 (alias)",
+      "url": "https://bx.ztesa.com.cn:8990",
+      "resolvedUrl": "http://bx.ztesa.com.cn:8990",
+      "protocolSwapped": true,
+      "keys": [
+        "Base64"
+      ]
+    },
+    {
+      "target": "保险H5 (alias)",
+      "url": "https://bx.ztesa.com.cn:8100",
+      "resolvedUrl": "http://bx.ztesa.com.cn:8100",
+      "protocolSwapped": true,
+      "keys": []
+    },
+    {
+      "target": "保险BI",
+      "url": "https://bx.ztesa.com.cn:7036",
+      "resolvedUrl": "http://bx.ztesa.com.cn:7036",
+      "protocolSwapped": true,
+      "keys": []
+    },
+    {
+      "target": "氮磷生态拦截管理平台",
+      "url": "https://dlstlj.zgwlxc.cn",
+      "resolvedUrl": "http://dlstlj.zgwlxc.cn",
+      "protocolSwapped": true,
+      "keys": []
+    },
+    {
+      "target": "众乐乐游戏端",
+      "url": "https://game.nbsznc.com",
+      "resolvedUrl": "https://game.nbsznc.com",
+      "protocolSwapped": false,
+      "keys": [
+        "fdd7ec58beea29fd69bf784f5a234620"
+      ]
+    },
+    {
+      "target": "众乐乐平台端H5",
+      "url": "https://bix.nbsznc.com",
+      "resolvedUrl": "http://bix.nbsznc.com",
+      "protocolSwapped": true,
+      "keys": []
+    },
+    {
+      "target": "秸秆政府端后台",
+      "url": "https://wfzg.ztesa.com.cn:8101",
+      "resolvedUrl": "http://wfzg.ztesa.com.cn:8101",
+      "protocolSwapped": true,
+      "keys": []
+    },
+    {
+      "target": "秸秆回收企业后台",
+      "url": "https://wfzg.ztesa.com.cn:8100",
+      "resolvedUrl": "http://wfzg.ztesa.com.cn:8100",
+      "protocolSwapped": true,
+      "keys": []
+    },
+    {
+      "target": "秸秆h5",
+      "url": "https://wfzg.ztesa.com.cn",
+      "resolvedUrl": "https://wfzg.ztesa.com.cn",
+      "protocolSwapped": false,
+      "keys": [
+        "fdd7ec58beea29fd69bf784f5a234620",
+        "6c2f4459967971871e84f638a9f854ab"
+      ]
+    },
+    {
+      "target": "第三方验证登录H5",
+      "url": "https://thirdauth.nbsznc.com",
+      "resolvedUrl": "https://thirdauth.nbsznc.com",
+      "protocolSwapped": false,
+      "keys": [
+        "fdd7ec58beea29fd69bf784f5a234620"
+      ]
+    },
+    {
+      "target": "营销活动",
+      "url": "https://mactive.ztesa.com.cn",
+      "resolvedUrl": "http://mactive.ztesa.com.cn",
+      "protocolSwapped": true,
+      "keys": []
+    },
+    {
+      "target": "手掌农场用户端H5下载页配置",
+      "url": "https://sznc.nongqibang.com",
+      "resolvedUrl": "https://sznc.nongqibang.com",
+      "protocolSwapped": false,
+      "keys": [
+        "fdd7ec58beea29fd69bf784f5a234620"
+      ]
+    },
+    {
+      "target": "未来乡村运维端",
+      "url": "https://system.zgwlxc.cn",
+      "resolvedUrl": "http://system.zgwlxc.cn",
+      "protocolSwapped": true,
+      "keys": [
+        "98f0e6e872819d5cd51e4df54d537b50"
+      ]
+    },
+    {
+      "target": "手掌农场运维端",
+      "url": "https://system.xn--j7qu0l1wkyhb.com",
+      "resolvedUrl": "http://system.xn--j7qu0l1wkyhb.com",
+      "protocolSwapped": true,
+      "keys": [
+        "98f0e6e872819d5cd51e4df54d537b50"
+      ]
+    },
+    {
+      "target": "手掌农场 直播管理平台",
+      "url": "https://play.nbsznc.com",
+      "resolvedUrl": "http://play.nbsznc.com",
+      "protocolSwapped": true,
+      "keys": [
+        "98f0e6e872819d5cd51e4df54d537b50"
+      ]
+    },
+    {
+      "target": "选品系统",
+      "url": "https://shopp.nbsznc.com",
+      "resolvedUrl": "http://shopp.nbsznc.com",
+      "protocolSwapped": true,
+      "keys": [
+        "98f0e6e872819d5cd51e4df54d537b50"
+      ]
+    },
+    {
+      "target": "手掌农场商户",
+      "url": "https://shop.nbsznc.com",
+      "resolvedUrl": "https://shop.nbsznc.com",
+      "protocolSwapped": false,
+      "keys": []
+    },
+    {
+      "target": "手掌农场商户 (alias)",
+      "url": "https://shop.nbsznc.com:8100",
+      "error": "Cannot read properties of undefined (reading 'TimeoutError')"
+    },
+    {
+      "target": "手掌农场商户端",
+      "url": "https://shop.ztesa.com.cn",
+      "resolvedUrl": "http://shop.ztesa.com.cn",
+      "protocolSwapped": true,
+      "keys": []
+    },
+    {
+      "target": "私有化店铺",
+      "url": "https://syh.xn--j7qu0l1wkyhb.com",
+      "resolvedUrl": "http://syh.xn--j7qu0l1wkyhb.com",
+      "protocolSwapped": true,
+      "keys": [
+        "fdd7ec58beea29fd69bf784f5a234620"
+      ]
+    },
+    {
+      "target": "市场供需PC",
+      "url": "https://sznc.nongqibang.com:8100",
+      "error": "Cannot read properties of undefined (reading 'TimeoutError')"
+    },
+    {
+      "target": "市场供需H5",
+      "url": "https://scgx.ztesa.com.cn",
+      "resolvedUrl": "https://scgx.ztesa.com.cn",
+      "protocolSwapped": false,
+      "keys": [
+        "fdd7ec58beea29fd69bf784f5a234620"
+      ]
+    },
+    {
+      "target": "手掌农场商家管理平台",
+      "url": "https://pcshop.nbsznc.com",
+      "resolvedUrl": "http://pcshop.nbsznc.com",
+      "protocolSwapped": true,
+      "keys": [
+        "98f0e6e872819d5cd51e4df54d537b50"
+      ]
+    },
+    {
+      "target": "惠享桥头用户端H5配置",
+      "url": "https://hxqt.xn--j7qu0l1wkyhb.com",
+      "resolvedUrl": "https://hxqt.xn--j7qu0l1wkyhb.com",
+      "protocolSwapped": false,
+      "keys": [
+        "fdd7ec58beea29fd69bf784f5a234620"
+      ]
+    },
+    {
+      "target": "手掌农场用户端H5配置",
+      "url": "https://sznc.ztesa.com.cn",
+      "resolvedUrl": "https://sznc.ztesa.com.cn",
+      "protocolSwapped": false,
+      "keys": []
+    },
+    {
+      "target": "手掌农场iOS下载配置",
+      "url": "https://iosdown.nongqibang.com",
+      "resolvedUrl": "https://iosdown.nongqibang.com",
+      "protocolSwapped": false,
+      "keys": []
+    },
+    {
+      "target": "手掌农场H5(电商)",
+      "url": "https://nbsznc.com",
+      "resolvedUrl": "https://nbsznc.com",
+      "protocolSwapped": false,
+      "keys": [
+        "98f0e6e872819d5cd51e4df54d537b50"
+      ]
+    },
+    {
+      "target": "慈溪数字乡村中台系统管理服务 手掌农场第二套中台系统管理",
+      "url": "https://extglzx.ztesa.com.cn",
+      "resolvedUrl": "http://extglzx.ztesa.com.cn",
+      "protocolSwapped": true,
+      "keys": [
+        "runnerKeycodes"
+      ]
+    },
+    {
+      "target": "中台系统管理",
+      "url": "https://middle.xn--j7qu0l1wkyhb.com",
+      "resolvedUrl": "https://middle.xn--j7qu0l1wkyhb.com",
+      "protocolSwapped": false,
+      "keys": [
+        "98f0e6e872819d5cd51e4df54d537b50"
+      ]
+    },
+    {
+      "target": "直播H5",
+      "url": "https://live.nbsznc.com",
+      "resolvedUrl": "http://live.nbsznc.com",
+      "protocolSwapped": true,
+      "keys": [
+        "fdd7ec58beea29fd69bf784f5a234620"
+      ]
+    },
+    {
+      "target": "物联网代理",
+      "url": "https://sapi.ztesa.com.cn",
+      "resolvedUrl": "https://sapi.ztesa.com.cn",
+      "protocolSwapped": false,
+      "keys": []
+    },
+    {
+      "target": "手掌农场api接口",
+      "url": "https://sapi.ztesa.com.cn",
+      "resolvedUrl": "https://sapi.ztesa.com.cn",
+      "protocolSwapped": false,
+      "keys": []
+    },
+    {
+      "target": "海曙共享冷库BI",
+      "url": "https://hsgxlk.zgwlxc.cn:8080",
+      "resolvedUrl": "https://hsgxlk.zgwlxc.cn:8080",
+      "protocolSwapped": false,
+      "keys": []
+    },
+    {
+      "target": "海曙共享冷库",
+      "url": "https://hsgxlk.zgwlxc.cn",
+      "resolvedUrl": "https://hsgxlk.zgwlxc.cn",
+      "protocolSwapped": false,
+      "keys": []
+    },
+    {
+      "target": "共享农机管理后台",
+      "url": "https://gxnj.ztesa.com.cn:8100",
+      "resolvedUrl": "http://gxnj.ztesa.com.cn:8100",
+      "protocolSwapped": true,
+      "keys": []
+    },
+    {
+      "target": "共享农机h5",
+      "url": "https://gxnj.ztesa.com.cn",
+      "resolvedUrl": "https://gxnj.ztesa.com.cn",
+      "protocolSwapped": false,
+      "keys": [
+        "fdd7ec58beea29fd69bf784f5a234620"
+      ]
+    },
+    {
+      "target": "手中农场app的api配置 (演示)",
+      "url": "https://api.xn--j7qu0l1wkyhb.com",
+      "resolvedUrl": "https://api.xn--j7qu0l1wkyhb.com",
+      "protocolSwapped": false,
+      "keys": []
+    },
+    {
+      "target": "手掌农场app 的api配置",
+      "url": "https://szncapi.ztesa.com.cn",
+      "resolvedUrl": "https://szncapi.ztesa.com.cn",
+      "protocolSwapped": false,
+      "keys": []
+    },
+    {
+      "target": "掌农场app的api配置(旧)",
+      "url": "https://124.71.132.133:7041",
+      "resolvedUrl": "http://124.71.132.133:7041",
+      "protocolSwapped": true,
+      "keys": []
+    },
+    {
+      "target": "form-generator",
+      "url": "https://cxnync.zgwlxc.cn:7100",
+      "resolvedUrl": "http://cxnync.zgwlxc.cn:7100",
+      "protocolSwapped": true,
+      "keys": []
+    },
+    {
+      "target": "慈溪数字乡村平台(new)",
+      "url": "https://cxnync.zgwlxc.cn",
+      "resolvedUrl": "https://cxnync.zgwlxc.cn",
+      "protocolSwapped": false,
+      "keys": []
+    },
+    {
+      "target": "慈溪数据采集管理平台",
+      "url": "https://ztcj.ztesa.com.cn:7100",
+      "resolvedUrl": "https://ztcj.ztesa.com.cn:7100",
+      "protocolSwapped": false,
+      "keys": []
+    },
+    {
+      "target": "慈溪数据采集H5",
+      "url": "https://ztcj.ztesa.com.cn",
+      "resolvedUrl": "https://ztcj.ztesa.com.cn",
+      "protocolSwapped": false,
+      "keys": [
+        "fdd7ec58beea29fd69bf784f5a234620",
+        "6c2f4459967971871e84f638a9f854ab"
+      ]
+    },
+    {
+      "target": "慈溪农业农村局 2021任务列表",
+      "url": "https://cxzzxt.zgwlxc.cn",
+      "resolvedUrl": "https://cxzzxt.zgwlxc.cn",
+      "protocolSwapped": false,
+      "keys": []
+    },
+    {
+      "target": "慈溪农业补助管理后台",
+      "url": "https://nybz.ztesa.com.cn:8100",
+      "resolvedUrl": "http://nybz.ztesa.com.cn:8100",
+      "protocolSwapped": true,
+      "keys": []
+    },
+    {
+      "target": "慈溪农业补助H5",
+      "url": "https://nybz.ztesa.com.cn",
+      "resolvedUrl": "https://nybz.ztesa.com.cn",
+      "protocolSwapped": false,
+      "keys": [
+        "fdd7ec58beea29fd69bf784f5a234620",
+        "6c2f4459967971871e84f638a9f854ab"
+      ]
+    },
+    {
+      "target": "慈溪统一登录",
+      "url": "https://login.ztesa.com.cn",
+      "resolvedUrl": "https://login.ztesa.com.cn",
+      "protocolSwapped": false,
+      "keys": []
+    },
+    {
+      "target": "共享冷库管理端",
+      "url": "https://gxlkop.ztesa.com.cn",
+      "resolvedUrl": "http://gxlkop.ztesa.com.cn",
+      "protocolSwapped": true,
+      "keys": []
+    },
+    {
+      "target": "共享冷库h5",
+      "url": "https://gxlk.ztesa.com.cn",
+      "resolvedUrl": "https://gxlk.ztesa.com.cn",
+      "protocolSwapped": false,
+      "keys": [
+        "fdd7ec58beea29fd69bf784f5a234620",
+        "6c2f4459967971871e84f638a9f854ab"
+      ]
+    },
+    {
+      "target": "共享冷库h5 (alias)",
+      "url": "https://124.71.132.133:8100",
+      "resolvedUrl": "http://124.71.132.133:8100",
+      "protocolSwapped": true,
+      "keys": []
+    },
+    {
+      "target": "需求反馈管理后台",
+      "url": "https://xqfk.ztesa.com.cn:8100",
+      "resolvedUrl": "http://xqfk.ztesa.com.cn:8100",
+      "protocolSwapped": true,
+      "keys": []
+    },
+    {
+      "target": "需求反馈",
+      "url": "https://xqfk.ztesa.com.cn",
+      "resolvedUrl": "https://xqfk.ztesa.com.cn",
+      "protocolSwapped": false,
+      "keys": [
+        "fdd7ec58beea29fd69bf784f5a234620",
+        "6c2f4459967971871e84f638a9f854ab"
+      ]
+    },
+    {
+      "target": "共享冷库BI",
+      "url": "https://cs.zgwlxc.cn:8080",
+      "resolvedUrl": "https://cs.zgwlxc.cn:8080",
+      "protocolSwapped": false,
+      "keys": []
+    },
+    {
+      "target": "共享冷库",
+      "url": "https://cs.zgwlxc.cn",
+      "resolvedUrl": "https://cs.zgwlxc.cn",
+      "protocolSwapped": false,
+      "keys": []
+    },
+    {
+      "target": "选品系统",
+      "url": "https://sel.nbsznc.com",
+      "resolvedUrl": "http://sel.nbsznc.com",
+      "protocolSwapped": true,
+      "keys": []
+    },
+    {
+      "target": "掌上农场后台管理",
+      "url": "https://biz.nbsznc.com",
+      "resolvedUrl": "http://biz.nbsznc.com",
+      "protocolSwapped": true,
+      "keys": [
+        "runnerKeycodes"
+      ]
+    },
+    {
+      "target": "手掌农场演示端",
+      "url": "https://biz.xn--j7qu0l1wkyhb.com:8001",
+      "resolvedUrl": "http://biz.xn--j7qu0l1wkyhb.com:8001",
+      "protocolSwapped": true,
+      "keys": [
+        "98f0e6e872819d5cd51e4df54d537b50"
+      ]
+    },
+    {
+      "target": "掌上农场后台管理",
+      "url": "https://biz.xn--j7qu0l1wkyhb.com",
+      "resolvedUrl": "https://biz.xn--j7qu0l1wkyhb.com",
+      "protocolSwapped": false,
+      "keys": []
+    },
+    {
+      "target": "农村资产管理",
+      "url": "https://biz2.nbsznc.com:8103",
+      "resolvedUrl": "http://biz2.nbsznc.com:8103",
+      "protocolSwapped": true,
+      "keys": [
+        "98f0e6e872819d5cd51e4df54d537b50"
+      ]
+    },
+    {
+      "target": "运营管理后台",
+      "url": "https://biz2.nbsznc.com:8102",
+      "resolvedUrl": "http://biz2.nbsznc.com:8102",
+      "protocolSwapped": true,
+      "keys": [
+        "98f0e6e872819d5cd51e4df54d537b50"
+      ]
+    },
+    {
+      "target": "App移动端管理后台",
+      "url": "https://biz2.nbsznc.con:8101",
+      "resolvedUrl": "http://biz2.nbsznc.con:8101",
+      "protocolSwapped": true,
+      "keys": [
+        "runnerKeycodes"
+      ]
+    },
+    {
+      "target": "应用支撑平台",
+      "url": "https://biz2.nbsznc.com:8100",
+      "resolvedUrl": "http://biz2.nbsznc.com:8100",
+      "protocolSwapped": true,
+      "keys": [
+        "98f0e6e872819d5cd51e4df54d537b50"
+      ]
+    },
+    {
+      "target": "未来乡村管理端",
+      "url": "https://biz.zgwlxc.cn",
+      "resolvedUrl": "http://biz.zgwlxc.cn",
+      "protocolSwapped": true,
+      "keys": [
+        "98f0e6e872819d5cd51e4df54d537b50"
+      ]
+    },
+    {
+      "target": "无废智管-秸秆后台管理",
+      "url": "https://wfzgjghspc.ztesa.com.cn",
+      "resolvedUrl": "http://wfzgjghspc.ztesa.com.cn",
+      "protocolSwapped": true,
+      "keys": []
+    },
+    {
+      "target": "无废智管-秸秆回收H5",
+      "url": "https://jghs.ztesa.com.cn",
+      "resolvedUrl": "https://jghs.ztesa.com.cn",
+      "protocolSwapped": false,
+      "keys": [
+        "575f48d9b40968e2974131dc2c7f1f36",
+        "fdd7ec58beea29fd69bf784f5a234620"
+      ]
+    },
+    {
+      "target": "无废质管Jeesite平台",
+      "url": "https://wfzgpc.ztesa.com.cn",
+      "resolvedUrl": "http://wfzgpc.ztesa.com.cn",
+      "protocolSwapped": true,
+      "keys": []
+    },
+    {
+      "target": "农起帮运营后台管理",
+      "url": "https://123.60.156.229:9100",
+      "resolvedUrl": "http://123.60.156.229:9100",
+      "protocolSwapped": true,
+      "keys": []
+    },
+    {
+      "target": "应急预警",
+      "url": "https://yjyj.ztesa.com.cn",
+      "resolvedUrl": "http://yjyj.ztesa.com.cn",
+      "protocolSwapped": true,
+      "keys": [
+        "fdd7ec58beea29fd69bf784f5a234620",
+        "98f0e6e872819d5cd51e4df54d537b50"
+      ]
+    },
+    {
+      "target": "无废智管PC",
+      "url": "https://wfzgnzd.ztesa.com.cn:8000",
+      "resolvedUrl": "http://wfzgnzd.ztesa.com.cn:8000",
+      "protocolSwapped": true,
+      "keys": [
+        "98f0e6e872819d5cd51e4df54d537b50"
+      ]
+    },
+    {
+      "target": "无废质管销售端",
+      "url": "https://wfzgnzd.ztesa.com.cn",
+      "resolvedUrl": "https://wfzgnzd.ztesa.com.cn",
+      "protocolSwapped": false,
+      "keys": [
+        "fdd7ec58beea29fd69bf784f5a234620"
+      ]
+    },
+    {
+      "target": "数智育秧PC",
+      "url": "https://szyypc.ztesa.com.cn",
+      "resolvedUrl": "https://szyypc.ztesa.com.cn",
+      "protocolSwapped": false,
+      "keys": []
+    },
+    {
+      "target": "数智育秧农资店",
+      "url": "https://szyynzd.ztesa.com.cn",
+      "resolvedUrl": "http://szyynzd.ztesa.com.cn",
+      "protocolSwapped": true,
+      "keys": [
+        "fdd7ec58beea29fd69bf784f5a234620"
+      ]
+    },
+    {
+      "target": "数智育秧H5",
+      "url": "https://szyygl.ztesa.com.cn",
+      "resolvedUrl": "http://szyygl.ztesa.com.cn",
+      "protocolSwapped": true,
+      "keys": [
+        "fdd7ec58beea29fd69bf784f5a234620"
+      ]
+    },
+    {
+      "target": "数智育秧",
+      "url": "https://szyyfarmers.ztesa.com.cn",
+      "resolvedUrl": "https://szyyfarmers.ztesa.com.cn",
+      "protocolSwapped": false,
+      "keys": [
+        "fdd7ec58beea29fd69bf784f5a234620"
+      ]
+    },
+    {
+      "target": "护农通",
+      "url": "https://hnt.zgwlxc.cn",
+      "resolvedUrl": "http://hnt.zgwlxc.cn",
+      "protocolSwapped": true,
+      "keys": [
+        "runnerKeycodes"
+      ]
+    },
+    {
+      "target": "geoserver 服务",
+      "url": "https://gis.ztesa.com.cn",
+      "resolvedUrl": "http://gis.ztesa.com.cn",
+      "protocolSwapped": true,
+      "keys": []
+    },
+    {
+      "target": "宁波市农业政策监管平台",
+      "url": "https://bxi.ztesa.com.cn",
+      "resolvedUrl": "https://bxi.ztesa.com.cn",
+      "protocolSwapped": false,
+      "keys": []
+    },
+    {
+      "target": "微心愿",
+      "url": "https://wxy.ztesa.com.cn",
+      "resolvedUrl": "http://wxy.ztesa.com.cn",
+      "protocolSwapped": true,
+      "keys": []
+    },
+    {
+      "target": "农起帮接口",
+      "url": "https://nqbapi.ztesa.com.cn",
+      "resolvedUrl": "http://nqbapi.ztesa.com.cn",
+      "protocolSwapped": true,
+      "keys": []
+    },
+    {
+      "target": "共享冰爽爽",
+      "url": "https://coldbi.ztesa.com.cn",
+      "resolvedUrl": "http://coldbi.ztesa.com.cn",
+      "protocolSwapped": true,
+      "keys": []
+    },
+    {
+      "target": "客服聊天系统",
+      "url": "https://im.ztesa.com.cn",
+      "resolvedUrl": "https://im.ztesa.com.cn",
+      "protocolSwapped": false,
+      "keys": []
+    },
+    {
+      "target": "农担BI",
+      "url": "https://ndbi.ztesa.com.cn",
+      "resolvedUrl": "http://ndbi.ztesa.com.cn",
+      "protocolSwapped": true,
+      "keys": []
+    },
+    {
+      "target": "慈溪共享冰爽爽",
+      "url": "https://gxbss.zgwlxc.cn/cx/",
+      "resolvedUrl": "http://gxbss.zgwlxc.cn/cx/",
+      "protocolSwapped": true,
+      "keys": []
+    },
+    {
+      "target": "慈溪共享冰爽爽BI",
+      "url": "https://cixicoldbss.ztesa.com.cn",
+      "resolvedUrl": "https://cixicoldbss.ztesa.com.cn",
+      "protocolSwapped": false,
+      "keys": []
+    },
+    {
+      "target": "慈溪数字乡村BI",
+      "url": "https://cxny.zgwlxc.cn",
+      "resolvedUrl": "https://cxny.zgwlxc.cn",
+      "protocolSwapped": false,
+      "keys": [
+        "fdd7ec58beea29fd69bf784f5a234620"
+      ]
+    },
+    {
+      "target": "慈溪数字乡村BI (alias)",
+      "url": "https://cixicold.ztesa.com.cn",
+      "resolvedUrl": "https://cixicold.ztesa.com.cn",
+      "protocolSwapped": false,
+      "keys": [
+        "1234567890abcdef"
+      ]
+    },
+    {
+      "target": "慈溪数字乡村BI",
+      "url": "https://datav.zgwlxc.cn",
+      "resolvedUrl": "https://datav.zgwlxc.cn",
+      "protocolSwapped": false,
+      "keys": []
+    },
+    {
+      "target": "慈溪数字乡村平台",
+      "url": "https://datav.ztesa.com.cn",
+      "resolvedUrl": "https://datav.ztesa.com.cn",
+      "protocolSwapped": false,
+      "keys": []
+    },
+    {
+      "target": "未来乡村地图",
+      "url": "https://zgwlxc.cn",
+      "resolvedUrl": "https://zgwlxc.cn",
+      "protocolSwapped": false,
+      "keys": []
+    },
+    {
+      "target": "未来乡村地图",
+      "url": "https://dlcy.ztesa.com.cn",
+      "resolvedUrl": "https://dlcy.ztesa.com.cn",
+      "protocolSwapped": false,
+      "keys": []
+    },
+    {
+      "target": "慈溪保险H5",
+      "url": "https://cxbx.ztesa.com.cn",
+      "resolvedUrl": "https://cxbx.ztesa.com.cn",
+      "protocolSwapped": false,
+      "keys": [
+        "198fb167047e7efa86ecd2921b2a7213"
+      ]
+    },
+    {
+      "target": "慈溪市芸天果蔬农场数字云平台",
+      "url": "https://ytbi.ztesa.com.cn",
+      "resolvedUrl": "https://ytbi.ztesa.com.cn",
+      "protocolSwapped": false,
+      "keys": []
+    },
+    {
+      "target": "食品溯源H5",
+      "url": "https://cxsy.ztesa.com.cn",
+      "resolvedUrl": "https://cxsy.ztesa.com.cn",
+      "protocolSwapped": false,
+      "keys": []
+    },
+    {
+      "target": "行政服务",
+      "url": "https://xzff.ztesa.com.cn",
+      "resolvedUrl": "http://xzff.ztesa.com.cn",
+      "protocolSwapped": true,
+      "keys": [
+        "fdd7ec58beea29fd69bf784f5a234620"
+      ]
+    },
+    {
+      "target": "农起帮运营平台",
+      "url": "https://ztesa.com.cn:7016/v2",
+      "resolvedUrl": "http://ztesa.com.cn:7016/v2",
+      "protocolSwapped": true,
+      "keys": [
+        "98f0e6e872819d5cd51e4df54d537b50"
+      ]
+    },
+    {
+      "target": "农起帮保险管理平台",
+      "url": "https://insuradmin.ztesa.com.cn/user/login",
+      "resolvedUrl": "http://insuradmin.ztesa.com.cn/user/login",
+      "protocolSwapped": true,
+      "keys": [
+        "98f0e6e872819d5cd51e4df54d537b50"
+      ]
+    },
+    {
+      "target": "农安文件一键通",
+      "url": "https://farmfile.ztesa.com.cn:7001",
+      "resolvedUrl": "http://farmfile.ztesa.com.cn:7001",
+      "protocolSwapped": true,
+      "keys": [
+        "d2f36c48bdbfaf697e2967344141418d"
+      ]
+    },
+    {
+      "target": "农安网格员web",
+      "url": "https://farmgrid.ztesa.com.cn:7001",
+      "resolvedUrl": "http://farmgrid.ztesa.com.cn:7001",
+      "protocolSwapped": true,
+      "keys": [
+        "d2f36c48bdbfaf697e2967344141418d"
+      ]
+    },
+    {
+      "target": "监测机构",
+      "url": "https://inspect.ztesa.com.cn:7001",
+      "resolvedUrl": "http://inspect.ztesa.com.cn:7001",
+      "protocolSwapped": true,
+      "keys": [
+        "d2f36c48bdbfaf697e2967344141418d"
+      ]
+    },
+    {
+      "target": "农安信用",
+      "url": "https://farmtrust.ztesa.com.cn:7001",
+      "resolvedUrl": "http://farmtrust.ztesa.com.cn:7001",
+      "protocolSwapped": true,
+      "keys": [
+        "d2f36c48bdbfaf697e2967344141418d"
+      ]
+    },
+    {
+      "target": "主体一键通",
+      "url": "https://policy.ztesa.com.cn:7001",
+      "resolvedUrl": "http://policy.ztesa.com.cn:7001",
+      "protocolSwapped": true,
+      "keys": []
+    },
+    {
+      "target": "监管追溯系统",
+      "url": "https://supe.ztesa.com.cn:7001",
+      "resolvedUrl": "http://supe.ztesa.com.cn:7001",
+      "protocolSwapped": true,
+      "keys": [
+        "983cc70aa17d38f89953b61d6ff09190"
+      ]
+    },
+    {
+      "target": "监管追溯系统 (alias)",
+      "url": "https://audit.ztesa.com.cn:7001",
+      "resolvedUrl": "http://audit.ztesa.com.cn:7001",
+      "protocolSwapped": true,
+      "keys": [
+        "runnerKeycodes"
+      ]
+    },
+    {
+      "target": "监管追溯系统 (alias)",
+      "url": "https://info.ztesa.com.cn:7001",
+      "resolvedUrl": "http://info.ztesa.com.cn:7001",
+      "protocolSwapped": true,
+      "keys": [
+        "983cc70aa17d38f89953b61d6ff09190"
+      ]
+    },
+    {
+      "target": "监管追溯系统 (alias)",
+      "url": "https://iot.ztesa.com.cn:7001",
+      "resolvedUrl": "http://iot.ztesa.com.cn:7001",
+      "protocolSwapped": true,
+      "keys": [
+        "983cc70aa17d38f89953b61d6ff09190"
+      ]
+    },
+    {
+      "target": "监管追溯系统 (alias)",
+      "url": "https://main.ztesa.com.cn:7001",
+      "resolvedUrl": "http://main.ztesa.com.cn:7001",
+      "protocolSwapped": true,
+      "keys": [
+        "983cc70aa17d38f89953b61d6ff09190"
+      ]
+    },
+    {
+      "target": "监管追溯系统 (alias)",
+      "url": "https://credit.ztesa.com.cn:7001",
+      "resolvedUrl": "http://credit.ztesa.com.cn:7001",
+      "protocolSwapped": true,
+      "keys": [
+        "983cc70aa17d38f89953b61d6ff09190"
+      ]
+    },
+    {
+      "target": "监管追溯系统 (alias)",
+      "url": "https://base.ztesa.com.cn:7001",
+      "resolvedUrl": "http://base.ztesa.com.cn:7001",
+      "protocolSwapped": true,
+      "keys": [
+        "983cc70aa17d38f89953b61d6ff09190"
+      ]
+    },
+    {
+      "target": "监管追溯系统 (alias)",
+      "url": "https://trust.ztesa.com.cn:7001",
+      "resolvedUrl": "http://trust.ztesa.com.cn:7001",
+      "protocolSwapped": true,
+      "keys": [
+        "983cc70aa17d38f89953b61d6ff09190"
+      ]
+    },
+    {
+      "target": "监管追溯系统 (alias)",
+      "url": "https://check.ztesa.com.cn:7001",
+      "resolvedUrl": "http://check.ztesa.com.cn:7001",
+      "protocolSwapped": true,
+      "keys": [
+        "983cc70aa17d38f89953b61d6ff09190"
+      ]
+    },
+    {
+      "target": "监管追溯系统 (alias)",
+      "url": "https://bzh.ztesa.com.cn:7001",
+      "resolvedUrl": "http://bzh.ztesa.com.cn:7001",
+      "protocolSwapped": true,
+      "keys": [
+        "runnerKeycodes"
+      ]
+    },
+    {
+      "target": "企业黄页",
+      "url": "https://ztesa.com.cn:7010",
+      "error": "Cannot read properties of undefined (reading 'TimeoutError')"
+    },
+    {
+      "target": "象山收储运",
+      "url": "https://ztesa.com.cn:7020",
+      "resolvedUrl": "http://ztesa.com.cn:7020",
+      "protocolSwapped": true,
+      "keys": []
+    },
+    {
+      "target": "八仙优品",
+      "url": "https://ztesa.com.cn:7006",
+      "resolvedUrl": "https://ztesa.com.cn:7006",
+      "protocolSwapped": false,
+      "keys": []
+    },
+    {
+      "target": "农业追溯系统",
+      "url": "https://ztesa.com.cn:7005",
+      "resolvedUrl": "http://ztesa.com.cn:7005",
+      "protocolSwapped": true,
+      "keys": []
+    },
+    {
+      "target": "浙政钉饲药两化看板",
+      "url": "https://sylhchart.ztesa.com.cn",
+      "resolvedUrl": "http://sylhchart.ztesa.com.cn",
+      "protocolSwapped": true,
+      "keys": []
+    },
+    {
+      "target": "饲药两化BI",
+      "url": "https://sylhbi.ztesa.com.cn",
+      "resolvedUrl": "http://sylhbi.ztesa.com.cn",
+      "protocolSwapped": true,
+      "keys": []
+    },
+    {
+      "target": "饲药两化后台管理",
+      "url": "https://sylhbi.ztesa.com.cn:7001",
+      "resolvedUrl": "http://sylhbi.ztesa.com.cn:7001",
+      "protocolSwapped": true,
+      "keys": []
+    },
+    {
+      "target": "饲药两化-诊疗机构端 兽医站",
+      "url": "https://sylhsyz.ztesa.com.cn",
+      "resolvedUrl": "https://sylhsyz.ztesa.com.cn",
+      "protocolSwapped": false,
+      "keys": []
+    },
+    {
+      "target": "饲药两化-畜牧主体端h5",
+      "url": "https://sylh.ztesa.com.cn",
+      "resolvedUrl": "https://sylh.ztesa.com.cn",
+      "protocolSwapped": false,
+      "keys": []
+    },
+    {
+      "target": "饲药两化-回收端",
+      "url": "https://sylhhs.ztesa.com.cn",
+      "resolvedUrl": "https://sylhhs.ztesa.com.cn",
+      "protocolSwapped": false,
+      "keys": []
+    },
+    {
+      "target": "农产品溯源h5",
+      "url": "https://ztesa.com.cn:7011",
+      "resolvedUrl": "http://ztesa.com.cn:7011",
+      "protocolSwapped": true,
+      "keys": [
+        "b05eb1b8e59f3819993f61318decd608"
+      ]
+    },
+    {
+      "target": "北仑收储运",
+      "url": "https://ztesa.com.cn:7008",
+      "resolvedUrl": "http://ztesa.com.cn:7008",
+      "protocolSwapped": true,
+      "keys": []
+    },
+    {
+      "target": "新溯源h5",
+      "url": "https://ztesa.com.cn:7009",
+      "resolvedUrl": "http://ztesa.com.cn:7009",
+      "protocolSwapped": true,
+      "keys": [
+        "b05eb1b8e59f3819993f61318decd608"
+      ]
+    },
+    {
+      "target": "农博会BI",
+      "url": "https://ztesa.com.cn:7015",
+      "resolvedUrl": "http://ztesa.com.cn:7015",
+      "protocolSwapped": true,
+      "keys": [
+        "237cf80ec79bf6e2b0302d11acef2abf"
+      ]
+    },
+    {
+      "target": "移动端统一地图平台",
+      "url": "https://sylhbi.nongqibang.com:7002/#/",
+      "resolvedUrl": "http://sylhbi.nongqibang.com:7002/#/",
+      "protocolSwapped": true,
+      "keys": [
+        "fdd7ec58beea29fd69bf784f5a234620"
+      ]
+    }
+  ],
+  "summary": {
+    "totalKeysFound": 15,
+    "keyIndex": {
+
+      "98f0e6e872819d5cd51e4df54d537b50": {
+        "occurrences": [
+          {
+            "name": "肥药两制监管平台",
+            "url": "https://ztesa.com.cn:8004/user/login?redirect=%2F"
+          },
+          {
+            "name": "慧AI运营平台",
+            "url": "https://haiyy.ztesa.com.cn"
+          },
+          {
+            "name": "慧考试PC",
+            "url": "https://hks.ztesa.com.cn"
+          },
+          {
+            "name": "掌上农场PC",
+            "url": "https://zsncpc.ztesa.com.cn"
+          },
+          {
+            "name": "达飞滴PC端",
+            "url": "https://dfdpc.ztesa.com.cn"
+          },
+          {
+            "name": "慧收储",
+            "url": "https://hsc.ztesa.com.cn"
+          },
+          {
+            "name": "绿鑫, 绿丰农事服务中心2",
+            "url": "https://lfnsfwzx.ztesa.com.cn"
+          },
+          {
+            "name": "江南村PC",
+            "url": "https://jncpc.ztesa.com.cn"
+          },
+          {
+            "name": "宁海绿鑫、绿丰农事服务中心",
+            "url": "https://lxlfnsfwzx.ztesa.com.cn"
+          },
+          {
+            "name": "气象局PC",
+            "url": "https://qxjpc.ztesa.com.cn"
+          },
+          {
+            "name": "慧收储PC",
+            "url": "https://hscpc.ztesa.com.cn"
+          },
+          {
+            "name": "物联网设备库",
+            "url": "https://wlwsbglpc.ztesa.com.cn"
+          },
+          {
+            "name": "效能管理PC系统",
+            "url": "https://xngl.ztesa.com.cn"
+          },
+          {
+            "name": "智慧排污(雨污)",
+            "url": "https://adyw.ztesa.com.cn"
+          },
+          {
+            "name": "农事服务中心PC+BI",
+            "url": "https://nsfwzxpc.ztesa.com.cn"
+          },
+          {
+            "name": "茂新PC",
+            "url": "https://mxwlxcpc.zgwlxc.cn"
+          },
+          {
+            "name": "慈农PC端",
+            "url": "https://cnfwpc.ztesa.com.cn"
+          },
+          {
+            "name": "数字文旅",
+            "url": "https://qyszwl.com"
+          },
+          {
+            "name": "未来乡村运维端",
+            "url": "https://system.zgwlxc.cn"
+          },
+          {
+            "name": "手掌农场运维端",
+            "url": "https://system.xn--j7qu0l1wkyhb.com"
+          },
+          {
+            "name": "手掌农场 直播管理平台",
+            "url": "https://play.nbsznc.com"
+          },
+          {
+            "name": "选品系统",
+            "url": "https://shopp.nbsznc.com"
+          },
+          {
+            "name": "手掌农场商家管理平台",
+            "url": "https://pcshop.nbsznc.com"
+          },
+          {
+            "name": "手掌农场H5(电商)",
+            "url": "https://nbsznc.com"
+          },
+          {
+            "name": "中台系统管理",
+            "url": "https://middle.xn--j7qu0l1wkyhb.com"
+          },
+          {
+            "name": "手掌农场演示端",
+            "url": "https://biz.xn--j7qu0l1wkyhb.com:8001"
+          },
+          {
+            "name": "农村资产管理",
+            "url": "https://biz2.nbsznc.com:8103"
+          },
+          {
+            "name": "运营管理后台",
+            "url": "https://biz2.nbsznc.com:8102"
+          },
+          {
+            "name": "应用支撑平台",
+            "url": "https://biz2.nbsznc.com:8100"
+          },
+          {
+            "name": "未来乡村管理端",
+            "url": "https://biz.zgwlxc.cn"
+          },
+          {
+            "name": "应急预警",
+            "url": "https://yjyj.ztesa.com.cn"
+          },
+          {
+            "name": "无废智管PC",
+            "url": "https://wfzgnzd.ztesa.com.cn:8000"
+          },
+          {
+            "name": "农起帮运营平台",
+            "url": "https://ztesa.com.cn:7016/v2"
+          },
+          {
+            "name": "农起帮保险管理平台",
+            "url": "https://insuradmin.ztesa.com.cn/user/login"
+          }
+        ],
+        "matchCount": 34
+      },
+      "2cb40c34bc37917e630950d551112431": {
+        "occurrences": [
+          {
+            "name": "溯源h5",
+            "url": "https://trace.ztesa.com.cn"
+          },
+          {
+            "name": "新版追溯H5",
+            "url": "https://weichao.ztesa.com.cn"
+          }
+        ],
+        "matchCount": 2
+      },
+      "fdd7ec58beea29fd69bf784f5a234620": {
+        "occurrences": [
+          {
+            "name": "余姚榨菜H5",
+            "url": "https://yyzc-zwy.ztesa.com.cn/#/login"
+          },
+          {
+            "name": "海曙种植大脑",
+            "url": "https://zzdn.ztesa.com.cn/#/login"
+          },
+          {
+            "name": "慧考试H5",
+            "url": "https://hksh5.ztesa.com.cn"
+          },
+          {
+            "name": "浙政钉数字乡村",
+            "url": "https://szjdjsczzd.ztesa.com.cn"
+          },
+          {
+            "name": "客户使用农事服务H5",
+            "url": "https://cnsfwh5.ztesa.com.cn"
+          },
+          {
+            "name": "芹菜BI",
+            "url": "https://qcbi.ztesa.com.cn"
+          },
+          {
+            "name": "杨梅BI",
+            "url": "https://ymbi.ztesa.com.cn"
+          },
+          {
+            "name": "江南村BI",
+            "url": "https://jncbi.ztesa.com.cn"
+          },
+          {
+            "name": "热力指数(乡村振兴)",
+            "url": "https://zxxc.simple.ztesa.xyz"
+          },
+          {
+            "name": "效能管理系统h5",
+            "url": "https://ims.ztesa.com.cn"
+          },
+          {
+            "name": "市版农事服务中心BI",
+            "url": "https://nsfwzxsbbi.ztesa.com.cn"
+          },
+          {
+            "name": "龙头企业BI",
+            "url": "https://ltqybi.ztesa.com.cn"
+          },
+          {
+            "name": "阿明农场BI",
+            "url": "https://amncbi.ztesa.com.cn"
+          },
+          {
+            "name": "长街农情监测BI",
+            "url": "https://cjbi.zgwlxc.cn"
+          },
+          {
+            "name": "新版追溯H5",
+            "url": "https://weichao.ztesa.com.cn"
+          },
+          {
+            "name": "茂新BI",
+            "url": "https://mxwlxcbi.zgwlxc.cn"
+          },
+          {
+            "name": "茂新H5",
+            "url": "https://mxwlxch5.zgwlxc.cn"
+          },
+          {
+            "name": "农事服务中心BI",
+            "url": "https://yyzc-zwy.ztesa.com.cn"
+          },
+          {
+            "name": "农事服务中心h5",
+            "url": "https://nsfwzx.ztesa.com.cn"
+          },
+          {
+            "name": "公司展厅",
+            "url": "https://zbh.ztesa.com.cn"
+          },
+          {
+            "name": "亚运会BI",
+            "url": "https://yyhbi.ztesa.com.cn"
+          },
+          {
+            "name": "数字基地BI(农起帮)",
+            "url": "https://szjd.ztesa.com.cn"
+          },
+          {
+            "name": "慈农H5",
+            "url": "https://cnfwh5.ztesa.com.cn"
+          },
+          {
+            "name": "基础平台H5",
+            "url": "https://basedata.ztesa.com.cn"
+          },
+          {
+            "name": "基础数据web",
+            "url": "https://121.37.129.206:8080"
+          },
+          {
+            "name": "大户带小富H5",
+            "url": "https://dhdxfh5.zgwlxc.cn"
+          },
+          {
+            "name": "余姚榨菜BI",
+            "url": "https://yyzcbi.ztesa.com.cn"
+          },
+          {
+            "name": "豇豆bi",
+            "url": "https://jdjg.ztesa.com.cn"
+          },
+          {
+            "name": "众乐乐游戏端",
+            "url": "https://game.nbsznc.com"
+          },
+          {
+            "name": "秸秆h5",
+            "url": "https://wfzg.ztesa.com.cn"
+          },
+          {
+            "name": "第三方验证登录H5",
+            "url": "https://thirdauth.nbsznc.com"
+          },
+          {
+            "name": "手掌农场用户端H5下载页配置",
+            "url": "https://sznc.nongqibang.com"
+          },
+          {
+            "name": "私有化店铺",
+            "url": "https://syh.xn--j7qu0l1wkyhb.com"
+          },
+          {
+            "name": "市场供需H5",
+            "url": "https://scgx.ztesa.com.cn"
+          },
+          {
+            "name": "惠享桥头用户端H5配置",
+            "url": "https://hxqt.xn--j7qu0l1wkyhb.com"
+          },
+          {
+            "name": "直播H5",
+            "url": "https://live.nbsznc.com"
+          },
+          {
+            "name": "共享农机h5",
+            "url": "https://gxnj.ztesa.com.cn"
+          },
+          {
+            "name": "慈溪数据采集H5",
+            "url": "https://ztcj.ztesa.com.cn"
+          },
+          {
+            "name": "慈溪农业补助H5",
+            "url": "https://nybz.ztesa.com.cn"
+          },
+          {
+            "name": "共享冷库h5",
+            "url": "https://gxlk.ztesa.com.cn"
+          },
+          {
+            "name": "需求反馈",
+            "url": "https://xqfk.ztesa.com.cn"
+          },
+          {
+            "name": "无废智管-秸秆回收H5",
+            "url": "https://jghs.ztesa.com.cn"
+          },
+          {
+            "name": "应急预警",
+            "url": "https://yjyj.ztesa.com.cn"
+          },
+          {
+            "name": "无废质管销售端",
+            "url": "https://wfzgnzd.ztesa.com.cn"
+          },
+          {
+            "name": "数智育秧农资店",
+            "url": "https://szyynzd.ztesa.com.cn"
+          },
+          {
+            "name": "数智育秧H5",
+            "url": "https://szyygl.ztesa.com.cn"
+          },
+          {
+            "name": "数智育秧",
+            "url": "https://szyyfarmers.ztesa.com.cn"
+          },
+          {
+            "name": "慈溪数字乡村BI",
+            "url": "https://cxny.zgwlxc.cn"
+          },
+          {
+            "name": "行政服务",
+            "url": "https://xzff.ztesa.com.cn"
+          },
+          {
+            "name": "移动端统一地图平台",
+            "url": "https://sylhbi.nongqibang.com:7002/#/"
+          }
+        ],
+        "matchCount": 50
+      },
+
+      "6390a3889f10aff1cb5b1e153c41185d": {
+        "occurrences": [
+          {
+            "name": "客户使用农事服务H5",
+            "url": "https://cnsfwh5.ztesa.com.cn"
+          },
+          {
+            "name": "农事服务中心h5",
+            "url": "https://nsfwzx.ztesa.com.cn"
+          }
+        ],
+        "matchCount": 2
+      },
+
+
+      "983cc70aa17d38f89953b61d6ff09190": {
+        "occurrences": [
+          {
+            "name": "龙头企业BI",
+            "url": "https://ltqybi.ztesa.com.cn"
+          },
+          {
+            "name": "监管追溯系统",
+            "url": "https://supe.ztesa.com.cn:7001"
+          },
+          {
+            "name": "监管追溯系统 (alias)",
+            "url": "https://info.ztesa.com.cn:7001"
+          },
+          {
+            "name": "监管追溯系统 (alias)",
+            "url": "https://iot.ztesa.com.cn:7001"
+          },
+          {
+            "name": "监管追溯系统 (alias)",
+            "url": "https://main.ztesa.com.cn:7001"
+          },
+          {
+            "name": "监管追溯系统 (alias)",
+            "url": "https://credit.ztesa.com.cn:7001"
+          },
+          {
+            "name": "监管追溯系统 (alias)",
+            "url": "https://base.ztesa.com.cn:7001"
+          },
+          {
+            "name": "监管追溯系统 (alias)",
+            "url": "https://trust.ztesa.com.cn:7001"
+          },
+          {
+            "name": "监管追溯系统 (alias)",
+            "url": "https://check.ztesa.com.cn:7001"
+          }
+        ],
+        "matchCount": 9
+      },
+
+      "6c2f4459967971871e84f638a9f854ab": {
+        "occurrences": [
+          {
+            "name": "秸秆h5",
+            "url": "https://wfzg.ztesa.com.cn"
+          },
+          {
+            "name": "慈溪数据采集H5",
+            "url": "https://ztcj.ztesa.com.cn"
+          },
+          {
+            "name": "慈溪农业补助H5",
+            "url": "https://nybz.ztesa.com.cn"
+          },
+          {
+            "name": "共享冷库h5",
+            "url": "https://gxlk.ztesa.com.cn"
+          },
+          {
+            "name": "需求反馈",
+            "url": "https://xqfk.ztesa.com.cn"
+          }
+        ],
+        "matchCount": 5
+      },
+      "198fb167047e7efa86ecd2921b2a7213": {
+        "occurrences": [
+          {
+            "name": "慈溪保险H5",
+            "url": "https://cxbx.ztesa.com.cn"
+          }
+        ],
+        "matchCount": 1
+      }
+    },
+    "failureSummary": {
+      "total": 11,
+      "byType": {
+        "timeout": 11,
+        "network": 0,
+        "connection_refused": 0,
+        "other": 0,
+        "unknown": 0
+      },
+      "details": [
+        {
+          "name": "H5产品追溯",
+          "url": "https://ztesa.com.cn:7004",
+          "error": "Cannot read properties of undefined (reading 'TimeoutError')",
+          "type": "timeout"
+        },
+        {
+          "name": "智安码后台管理",
+          "url": "https://namadmin.ztesa.com.cn",
+          "error": "Cannot read properties of undefined (reading 'TimeoutError')",
+          "type": "timeout"
+        },
+        {
+          "name": "达飞滴H5-国鹿域名",
+          "url": "https://dfdh5.zgguolu.com.cn",
+          "error": "Cannot read properties of undefined (reading 'TimeoutError')",
+          "type": "timeout"
+        },
+        {
+          "name": "宁海望海岗茶园",
+          "url": "https://szjdwlbi.ztesa.com.cn",
+          "error": "Cannot read properties of undefined (reading 'TimeoutError')",
+          "type": "timeout"
+        },
+        {
+          "name": "New数字基地驾驶舱BI",
+          "url": "https://szjdjsc.ztesa.com.cn",
+          "error": "Cannot read properties of undefined (reading 'TimeoutError')",
+          "type": "timeout"
+        },
+        {
+          "name": "象山数字文旅",
+          "url": "https://xqg.qyszwl.com",
+          "error": "Cannot read properties of undefined (reading 'TimeoutError')",
+          "type": "timeout"
+        },
+        {
+          "name": "梁弄出票机Web (alias)",
+          "url": "https://xcxynx.nongqibang.com",
+          "error": "Cannot read properties of undefined (reading 'TimeoutError')",
+          "type": "timeout"
+        },
+        {
+          "name": "梁弄出票机Web (alias)",
+          "url": "https://xcxynx.nongqibang.com:7043",
+          "error": "Cannot read properties of undefined (reading 'TimeoutError')",
+          "type": "timeout"
+        },
+        {
+          "name": "手掌农场商户 (alias)",
+          "url": "https://shop.nbsznc.com:8100",
+          "error": "Cannot read properties of undefined (reading 'TimeoutError')",
+          "type": "timeout"
+        },
+        {
+          "name": "市场供需PC",
+          "url": "https://sznc.nongqibang.com:8100",
+          "error": "Cannot read properties of undefined (reading 'TimeoutError')",
+          "type": "timeout"
+        },
+        {
+          "name": "企业黄页",
+          "url": "https://ztesa.com.cn:7010",
+          "error": "Cannot read properties of undefined (reading 'TimeoutError')",
+          "type": "timeout"
+        }
+      ]
+    }
+  }
+}

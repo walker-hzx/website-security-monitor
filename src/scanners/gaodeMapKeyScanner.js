@@ -1,15 +1,44 @@
+const { loadEnvironmentFiles } = require('../utils/loadEnvironment');
+loadEnvironmentFiles();
 const cheerio = require('cheerio');
 const logger = require('../utils/logger');
 const {
   fetchRenderedContent,
   DEFAULT_TIMEOUT_MS,
-  DEFAULT_WAIT_UNTIL
+  DEFAULT_WAIT_UNTIL,
+  shutdownBrowser
 } = require('../utils/renderedContentFetcher');
+const { writeGaodeReport } = require('../utils/reportWriter');
 
 const DEFAULT_RENDER_OPTIONS = {
   timeoutMs: DEFAULT_TIMEOUT_MS,
   waitUntil: DEFAULT_WAIT_UNTIL
 };
+
+function flipHttpProtocol(targetUrl) {
+  if (targetUrl.startsWith('https://')) {
+    return `http://${targetUrl.slice(8)}`;
+  }
+  if (targetUrl.startsWith('http://')) {
+    return `https://${targetUrl.slice(7)}`;
+  }
+  return null;
+}
+
+async function fetchWithProtocolFallback(targetUrl, renderOptions) {
+  try {
+    const content = await fetchRenderedContent(targetUrl, renderOptions);
+    return { html: content, resolvedUrl: targetUrl, protocolSwapped: false };
+  } catch (fetchError) {
+    const alternate = flipHttpProtocol(targetUrl);
+    if (!alternate) {
+      throw fetchError;
+    }
+    logger.warn(`目标 ${targetUrl} 初次请求失败，尝试切换协议为 ${alternate}`);
+    const content = await fetchRenderedContent(alternate, renderOptions);
+    return { html: content, resolvedUrl: alternate, protocolSwapped: true };
+  }
+}
 
 // Patterns target how the Gaode SDK typically exposes its key in inline scripts.
 const GAODE_KEY_PATTERNS = [
@@ -64,7 +93,10 @@ async function runGaodeMapKeyScan(targets = [], opts = {}) {
     }
 
     try {
-      const html = await fetchRenderedContent(target.url, effectiveRenderOptions);
+      const { html, resolvedUrl, protocolSwapped } = await fetchWithProtocolFallback(
+        target.url,
+        effectiveRenderOptions
+      );
       const $ = cheerio.load(html);
       const scriptText = $('script')
         .map((_, el) => $(el).html() || '')
@@ -78,7 +110,13 @@ async function runGaodeMapKeyScan(targets = [], opts = {}) {
         logger.info(`在 ${label} 未检测到明显的高德 Key。`);
       }
 
-      findings.push({ target: label, url: target.url, keys: candidates });
+      findings.push({
+        target: label,
+        url: target.url,
+        resolvedUrl,
+        protocolSwapped,
+        keys: candidates
+      });
     } catch (error) {
       logger.error(`请求 ${label} 失败`, error);
       findings.push({ target: label, url: target.url, error: error.message });
@@ -95,10 +133,24 @@ module.exports = {
 
 if (require.main === module) {
   const config = require('../config/default');
+  const gaodeConfig = config.scanners?.gaode || {};
+  const outputFile = gaodeConfig.outputFile || 'reports/gaode-key-findings.json';
 
   (async () => {
-    const timeout = config.scanners?.gaode?.timeoutMs ?? DEFAULT_TIMEOUT_MS;
-    await runGaodeMapKeyScan(config.targets || [], { httpTimeout: timeout });
+    const renderOptions = gaodeConfig.render;
+    const targets = config.targets || [];
+    let results = [];
+    try {
+      results = await runGaodeMapKeyScan(targets, { renderOptions });
+      try {
+        const resolvedPath = await writeGaodeReport({ targets, results, outputFile });
+        logger.info(`扫描结果已写入 ${resolvedPath}`);
+      } catch (writeError) {
+        logger.warn('扫描输出文件写入失败，将在控制台保留日志。');
+      }
+    } finally {
+      await shutdownBrowser().catch((err) => logger.debug('渲染器关闭失败', err));
+    }
   })().catch((err) => {
     logger.error('高德 Key 扫描失败', err);
     process.exit(1);
